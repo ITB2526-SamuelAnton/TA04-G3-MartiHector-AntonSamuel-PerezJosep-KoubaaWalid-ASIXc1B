@@ -3,16 +3,37 @@ import os
 import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import unicodedata
 
 INPUT_DIR = 'CSV'
 OUTPUT_DIR = 'XML'
 
+def _is_letter(ch):
+    return unicodedata.category(ch).startswith('L')
+
 def _sanitize_tag(tag):
     if tag is None:
         return 'field'
-    tag = re.sub(r'\s+', '_', str(tag))
-    tag = re.sub(r'[^A-Za-z0-9_\-\.]', '_', tag)
-    if re.match(r'^[^A-Za-z_]', tag):
+    tag = str(tag).strip()
+    if tag == '':
+        return 'field'
+    tag = unicodedata.normalize('NFC', tag)
+    new_chars = []
+    for ch in tag:
+        if ch == "'":
+            new_chars.append('_')
+        elif ch.isspace():
+            new_chars.append('_')
+        elif _is_letter(ch) or ch.isdigit() or ch in ('_', '-s', '.'):
+            new_chars.append(ch)
+        else:
+            new_chars.append('_')
+    tag = ''.join(new_chars)
+    tag = re.sub(r'_+', '_', tag)
+    tag = tag.strip('_')
+    if tag == '':
+        return 'field'
+    if not (_is_letter(tag[0]) or tag[0] == '_'):
         tag = 'field_' + tag
     return tag
 

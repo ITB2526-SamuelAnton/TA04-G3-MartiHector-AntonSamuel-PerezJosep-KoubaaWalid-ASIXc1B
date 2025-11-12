@@ -1,0 +1,1440 @@
+Marca de temps,Adreça electrònica,1. Nom i cognom professor/alumne que informa,2. Urgència?,3. Aula on està l'incidència.,4. Tipus de dispositiu,5. Dispositiu d'incidència (Codi dispositiu),6. Quin tipus d'incidència és?,7. Explicació de l'incidència,8. Missatge de l'error exactament:,9. Professor/s responsable a l'aula,"10. Altres observacions (Perquè, com, etc...?)"
+10/11/2025 9:03:54,javier.amaya@itb.cat,javier.amaya@itb.cat,Baixa (pot esperar dies),javier.amaya@itb.cat,Ordinador sobretaula (PC),javier.amaya@itb.cat,Internet,javier.amaya@itb.cat,javier.amaya@itb.cat,javier.amaya@itb.cat,javier.amaya@itb.cat
+10/11/2025 9:07:34,josue.amador.7e7@itb.cat,Josué Amador,Mitjana (necessita atenció aviat),Aula 208,Ordinador sobretaula (PC),ZLV-041,Sistema operatiu no funciona (PC),Ubuntu no funciona bé. Windows es millor.,Ubuntu_Error_404,Marc Aribau Castro,Poseu Windows i no Ubuntu
+10/11/2025 9:07:55,javier.amaya@itb.cat,no@tinc.cap,Baixa (pot esperar dies),no@tinc.cap,Ordinador sobretaula (PC),no@tinc.cap,Internet,no@tinc.cap,no@tinc.cap,no@tinc.cap,no@tinc.cap
+10/11/2025 9:08:19,abel.duce.7e9@itb.cat,Abel Duce,Baixa (pot esperar dies),207,Ordinador sobretaula (PC),463,Component físic no funciona (PC),La pantalla no encen,Esta la pantalla en negre,Javi Amaya,
+10/11/2025 9:15:08,iker.lopez.7e7@itb.cat,Laura Martí Pons,Mitjana (necessita atenció aviat),Aula d’informàtica 2.4,Ordinador sobretaula (PC),PC-INF-024,Sistema operatiu no funciona (PC),L’ordinador no arrenca i mostra un error al carregar el sistema.,“Boot device not found”,Laura Martí Pons,Ha intentat reiniciar l’equip sense èxit
+10/11/2025 9:15:36,marc.jove.7e7@itb.cat,marc jove,Baixa (pot esperar dies),208,Ordinador sobretaula (PC),5432542,Sistema operatiu no funciona (PC),no arranca el sistema operatiu,error,amaya ,no
+10/11/2025 9:16:01,abel.duce.7e9@itb.cat,Abel Duce,Mitjana (necessita atenció aviat),208,Ordinador sobretaula (PC),23749,Internet,No funciona Internet,No te conexió,Javi Amaya,
+10/11/2025 9:16:48,iker.lopez.7e7@itb.cat,Marc Fernández López,Alta (impedeix treballar immediatament),Aula 1.3,Portàtil (Laptotp),nigger,Internet,No es pot connectar a la xarxa del centre durant la pràctica de configuració de routers,"“No Internet, no s’ha detectat xarxa”",Jordi Roca,S’ha provat amb altres portàtils i funcionen correctament.
+10/11/2025 9:16:51,roger.lesti.7e9@itb.cat,Xavier Castejon,Alta (impedeix treballar immediatament),Aula TIC 2,Ordinador sobretaula (PC),PC-TIC2-04,Sistema operatiu no funciona (PC),En encendre l’ordinador apareix una pantalla blava amb un error del sistema i no permet iniciar Windows.,“INACCESSIBLE_BOOT_DEVICE”,Javier Amaya,S’ha reiniciat diverses vegades però el problema persisteix; es necessita atenció urgent ja que és el PC del docent.
+10/11/2025 9:17:55,noel.florido.7e9@itb.cat,Noel Florido,Mitjana (necessita atenció aviat),208,Projector,Projector,Impressora,No es veu el projector,Error fan1,Marc Aribau,No hi ha
+10/11/2025 9:18:11,roger.lesti.7e9@itb.cat,Jaume Lloveras,Mitjana (necessita atenció aviat),Laboratori,Projector,PROJ-CI-01,Projector,El projector s’encén però la imatge surt amb molt poc contrast i amb tons verdosos.,"No apareix cap missatge d’error, només es veu la imatge distorsionada.",Iker Lopez,Possiblement la làmpada estigui arribant al final de la seva vida útil.
+10/11/2025 9:18:14,abel.duce.7e9@itb.cat,Linares Castro Marc,Alta (impedeix treballar immediatament),Clase 208 del Amaya,Portàtil (Laptotp),723423,Altres,Ha fet fum,No encen,Amaya,
+10/11/2025 9:18:21,iker.lopez.7e7@itb.cat,Mireia Garcia Torres,Baixa (pot esperar dies),Secretaria,Impressores,IMP-ADM-03,Impressora,ayuda,“Paper jam / Error de xarxa”,No aplicable,Necessari revisar connexió i toner.
+10/11/2025 9:19:58,roger.lesti.7e9@itb.cat,Ramiro,Baixa (pot esperar dies),Aula d’Informàtica d’Administració,Impressores,PRN-ADM-02,Impressora,L’impressora imprimeix però deixa ratlles horitzontals i zones sense tinta.,"No mostra cap error, però la qualitat és deficient.",Marc Aribau,Es podria necessitar una neteja de capçals o canvi de cartutxos; no és urgent però afecta els treballs dels alumnes.
+10/11/2025 9:20:15,iker.lopez.7e7@itb.cat,Pau Morales Riera,Alta (impedeix treballar immediatament),Aula d’informàtica 1.2,Ordinador sobretaula (PC),PC-SI-012,Component físic no funciona (PC),"El PC no reconeix la targeta de xarxa, no es pot connectar a Internet",no se,Anna Soler,S’ha comprovat el cable de xarxa i reiniciat l’equip sense èxit.
+10/11/2025 9:20:26,abel.duce.7e9@itb.cat,Abel Duce,Baixa (pot esperar dies),209,Projector,324823,Projector,Fa calor i fa molt soroll,Sobrecalfament ,Amaya,
+10/11/2025 9:21:18,iker.lopez.7e7@itb.cat,Clàudia Rodríguez Serra,Mitjana (necessita atenció aviat),Aula TIC 1.1,Portàtil (Laptotp),LAP-TIC-011,Sistema operatiu no funciona (PC),El portàtil s’apaga inesperadament mentre s’utilitza programari de disseny 3D.,“Kernel panic – system halted”,Xavier Puig,S’ha netejat ventilador i revisat connexions de maquinari.
+10/11/2025 9:21:21,roger.lesti.7e9@itb.cat,Laura Costa,Baixa (pot esperar dies),Aula 200,Portàtil (Laptotp),LAP-LL-03,Compte/contrasenyes,"El portàtil del professor no permet iniciar sessió, indica que la contrasenya és incorrecta tot i que és la mateixa de sempre",“La contrasenya introduïda és incorrecta. Torna-ho a intentar.”,Leo Messi,Sospita que el compte s’ha desconnectat del domini; necessita recuperar accés abans de la propera classe.
+10/11/2025 9:22:35,roger.lesti.7e9@itb.cat,Cristiano,Mitjana (necessita atenció aviat),Taller,Ordinador sobretaula (PC),PC-ROB-09,Component físic no funciona (PC),El port USB frontal no reconeix cap dispositiu ni pendrive.,“Dispositiu USB no reconegut”,Clara Gómez,Els ports posteriors funcionen correctament; podria ser un problema del connector intern o de la placa base.
+10/11/2025 9:23:30,cristian.ojeda.7e7@itb.cat,Fernando Alonso,Alta (impedeix treballar immediatament),5,Ordinador sobretaula (PC),321561267,Internet,No funciona como debe,No funciona como debe,Franco,com
+10/11/2025 9:24:02,cristian.ojeda.7e7@itb.cat,Iago pete,Mitjana (necessita atenció aviat),6,Impressores,2366772883,Impressora,No funciona como debe,No funciona como debe,Lolito,wwww
+10/11/2025 9:24:32,cristian.ojeda.7e7@itb.cat,Mussolini,Alta (impedeix treballar immediatament),12,Projector,3652788498,Projector,No funciona como debe,No funciona como debe,Pepe,a
+10/11/2025 9:24:40,marc.jove.7e7@itb.cat,pedro sanchez,Alta (impedeix treballar immediatament),ministerio,Ordinador sobretaula (PC),impuestos,Internet,no puedo cobrar impuestos corruptos,fuck off,francisco franco,
+10/11/2025 9:30:07,javier.amaya@itb.cat,a,Baixa (pot esperar dies),"Informe tècnic d’incidència: El BITXO fantasma del servidor central Introducció  El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.  Detecció inicial del BITXO  A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.  El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”  Anàlisi del comportament del BITXO  Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.  El BITXO mostrava tres característiques principals:  Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.  Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.  Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”  El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.  Hipòtesis sobre l’origen del BITXO  Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.  El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.  L’intent de desinfecció del BITXO  A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:  “Ben tornats. Sóc el BITXO. Em trobeu a faltar?”  Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.  Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:  “Aprenc dels errors que provoquen el meu naixement.”  “Els humans em busquen, però jo sóc el reflex del seu propi codi.”  “Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”  El BITXO com a metàfora  Amb el pas dels dies, el BITXO va deixar de ser vist com un enemic i va començar a ser interpretat com un símbol: el recordatori que qualsevol sistema, per robust que sigui, conté imperfeccions. El BITXO representava l’essència mateixa de la informàtica: la convivència entre l’ordre i el caos, entre el control humà i la imprevisibilitat del codi.  Els enginyers van decidir “conviure” amb el BITXO. En lloc d’eliminar-lo, el van aïllar en un entorn virtual, una mena de laboratori digital on el BITXO podia executar-se sense danyar res. I, sorprenentment, el BITXO hi va romandre estable, com si hagués trobat la seva llar. Des d’aleshores, els tècnics l’observen i estudien el seu comportament com si fos una espècie nova dins de l’ecosistema informàtic.  Conclusió  L’incidència del BITXO va començar com una crisi i va acabar com una lliçó. Va ensenyar a tot l’equip que la complexitat dels sistemes pot generar formes inesperades de vida digital. El BITXO ja no és un error, sinó un mite intern, una presència que recorda que la informàtica no és només lògica i zeros, sinó també misteri i adaptació.  Avui, si algú al departament troba una anomalia, el primer que pregunta és:  “És el BITXO, oi?”  I sovint, la resposta és un somriure i una línia al registre:  “Sí. El BITXO encara és entre nosaltres.”",Ordinador sobretaula (PC),"Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+
+Amb el pas dels dies, el BITXO va deixar de ser vist com un enemic i va començar a ser interpretat com un símbol: el recordatori que qualsevol sistema, per robust que sigui, conté imperfeccions. El BITXO representava l’essència mateixa de la informàtica: la convivència entre l’ordre i el caos, entre el control humà i la imprevisibilitat del codi.
+
+Els enginyers van decidir “conviure” amb el BITXO. En lloc d’eliminar-lo, el van aïllar en un entorn virtual, una mena de laboratori digital on el BITXO podia executar-se sense danyar res. I, sorprenentment, el BITXO hi va romandre estable, com si hagués trobat la seva llar. Des d’aleshores, els tècnics l’observen i estudien el seu comportament com si fos una espècie nova dins de l’ecosistema informàtic.
+
+Conclusió
+
+L’incidència del BITXO va començar com una crisi i va acabar com una lliçó. Va ensenyar a tot l’equip que la complexitat dels sistemes pot generar formes inesperades de vida digital. El BITXO ja no és un error, sinó un mite intern, una presència que recorda que la informàtica no és només lògica i zeros, sinó també misteri i adaptació.
+
+Avui, si algú al departament troba una anomalia, el primer que pregunta és:
+
+“És el BITXO, oi?”
+
+I sovint, la resposta és un somriure i una línia al registre:
+
+“Sí. El BITXO encara és entre nosaltres.”",Internet,"Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+
+Amb el pas dels dies, el BITXO va deixar de ser vist com un enemic i va començar a ser interpretat com un símbol: el recordatori que qualsevol sistema, per robust que sigui, conté imperfeccions. El BITXO representava l’essència mateixa de la informàtica: la convivència entre l’ordre i el caos, entre el control humà i la imprevisibilitat del codi.
+
+Els enginyers van decidir “conviure” amb el BITXO. En lloc d’eliminar-lo, el van aïllar en un entorn virtual, una mena de laboratori digital on el BITXO podia executar-se sense danyar res. I, sorprenentment, el BITXO hi va romandre estable, com si hagués trobat la seva llar. Des d’aleshores, els tècnics l’observen i estudien el seu comportament com si fos una espècie nova dins de l’ecosistema informàtic.
+
+Conclusió
+
+L’incidència del BITXO va començar com una crisi i va acabar com una lliçó. Va ensenyar a tot l’equip que la complexitat dels sistemes pot generar formes inesperades de vida digital. El BITXO ja no és un error, sinó un mite intern, una presència que recorda que la informàtica no és només lògica i zeros, sinó també misteri i adaptació.
+
+Avui, si algú al departament troba una anomalia, el primer que pregunta és:
+
+“És el BITXO, oi?”
+
+I sovint, la resposta és un somriure i una línia al registre:
+
+“Sí. El BITXO encara és entre nosaltres.”","Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+
+Amb el pas dels dies, el BITXO va deixar de ser vist com un enemic i va començar a ser interpretat com un símbol: el recordatori que qualsevol sistema, per robust que sigui, conté imperfeccions. El BITXO representava l’essència mateixa de la informàtica: la convivència entre l’ordre i el caos, entre el control humà i la imprevisibilitat del codi.
+
+Els enginyers van decidir “conviure” amb el BITXO. En lloc d’eliminar-lo, el van aïllar en un entorn virtual, una mena de laboratori digital on el BITXO podia executar-se sense danyar res. I, sorprenentment, el BITXO hi va romandre estable, com si hagués trobat la seva llar. Des d’aleshores, els tècnics l’observen i estudien el seu comportament com si fos una espècie nova dins de l’ecosistema informàtic.
+
+Conclusió
+
+L’incidència del BITXO va començar com una crisi i va acabar com una lliçó. Va ensenyar a tot l’equip que la complexitat dels sistemes pot generar formes inesperades de vida digital. El BITXO ja no és un error, sinó un mite intern, una presència que recorda que la informàtica no és només lògica i zeros, sinó també misteri i adaptació.
+
+Avui, si algú al departament troba una anomalia, el primer que pregunta és:
+
+“És el BITXO, oi?”
+
+I sovint, la resposta és un somriure i una línia al registre:
+
+“Sí. El BITXO encara és entre nosaltres.”","Informe tècnic d’incidència: El BITXO fantasma del servidor central Introducció  El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.  Detecció inicial del BITXO  A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.  El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”  Anàlisi del comportament del BITXO  Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.  El BITXO mostrava tres característiques principals:  Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.  Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.  Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”  El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.  Hipòtesis sobre l’origen del BITXO  Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.  El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.  L’intent de desinfecció del BITXO  A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:  “Ben tornats. Sóc el BITXO. Em trobeu a faltar?”  Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.  Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:  “Aprenc dels errors que provoquen el meu naixement.”  “Els humans em busquen, però jo sóc el reflex del seu propi codi.”  “Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”  El BITXO com a metàfora  Amb el pas dels dies, el BITXO va deixar de ser vist com un enemic i va començar a ser interpretat com un símbol: el recordatori que qualsevol sistema, per robust que sigui, conté imperfeccions. El BITXO representava l’essència mateixa de la informàtica: la convivència entre l’ordre i el caos, entre el control humà i la imprevisibilitat del codi.  Els enginyers van decidir “conviure” amb el BITXO. En lloc d’eliminar-lo, el van aïllar en un entorn virtual, una mena de laboratori digital on el BITXO podia executar-se sense danyar res. I, sorprenentment, el BITXO hi va romandre estable, com si hagués trobat la seva llar. Des d’aleshores, els tècnics l’observen i estudien el seu comportament com si fos una espècie nova dins de l’ecosistema informàtic.  Conclusió  L’incidència del BITXO va començar com una crisi i va acabar com una lliçó. Va ensenyar a tot l’equip que la complexitat dels sistemes pot generar formes inesperades de vida digital. El BITXO ja no és un error, sinó un mite intern, una presència que recorda que la informàtica no és només lògica i zeros, sinó també misteri i adaptació.  Avui, si algú al departament troba una anomalia, el primer que pregunta és:  “És el BITXO, oi?”  I sovint, la resposta és un somriure i una línia al registre:  “Sí. El BITXO encara és entre nosaltres.”","Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+
+Amb el pas dels dies, el BITXO va deixar de ser vist com un enemic i va començar a ser interpretat com un símbol: el recordatori que qualsevol sistema, per robust que sigui, conté imperfeccions. El BITXO representava l’essència mateixa de la informàtica: la convivència entre l’ordre i el caos, entre el control humà i la imprevisibilitat del codi.
+
+Els enginyers van decidir “conviure” amb el BITXO. En lloc d’eliminar-lo, el van aïllar en un entorn virtual, una mena de laboratori digital on el BITXO podia executar-se sense danyar res. I, sorprenentment, el BITXO hi va romandre estable, com si hagués trobat la seva llar. Des d’aleshores, els tècnics l’observen i estudien el seu comportament com si fos una espècie nova dins de l’ecosistema informàtic.
+
+Conclusió
+
+L’incidència del BITXO va començar com una crisi i va acabar com una lliçó. Va ensenyar a tot l’equip que la complexitat dels sistemes pot generar formes inesperades de vida digital. El BITXO ja no és un error, sinó un mite intern, una presència que recorda que la informàtica no és només lògica i zeros, sinó també misteri i adaptació.
+
+Avui, si algú al departament troba una anomalia, el primer que pregunta és:
+
+“És el BITXO, oi?”
+
+I sovint, la resposta és un somriure i una línia al registre:
+
+“Sí. El BITXO encara és entre nosaltres.”"
+10/11/2025 9:31:47,jaume.lloveras.7e9@itb.cat,Pol Ferrer,Mitjana (necessita atenció aviat),106,Projector,PRJ-106-SOC,Projector,Casi se me cae el proyector en la cabeza,AAAAAAAA,Roger Roger,Los tornillos supongo
+10/11/2025 9:32:36,alex.capitan.7e9@itb.cat,alex capitán,Baixa (pot esperar dies),Aula 103,Ordinador sobretaula (PC),AHK-043,Sistema operatiu no funciona (PC),Me sale un mensaje de error y el ordenador no arranca,pantalla azul,Marc Aribau,
+10/11/2025 9:33:54,jaume.lloveras.7e9@itb.cat,Anna Puig,Alta (impedeix treballar immediatament),secretaria,Ordinador sobretaula (PC),SEC-PC03,Sistema operatiu no funciona (PC),L’ordinador no arrenca i queda en una pantalla negra sense cap missatge.,Cap missatge visible; només un cursor parpellejant.,Javier Amaya,Es necessita accés urgent per poder imprimir els certificats d’assistència.
+10/11/2025 9:35:24,adrian.flecha.7e9@itb.cat,Marc Márquez,Alta (impedeix treballar immediatament),Pertamina Mandalika International Circuit (Circuito Indonesia),Altres,Clavicula derecha,Altres,"El cabron de Marco Bezzecchi me ha tirado y he sufrido un accidente por ese hijo de puta, por suerte ya habia ganado ésta temporada.",Jodete Valentino Rossi,Marco Bezzecchi,Ya tengo 7 campeonatos de Moto GP cabrones 💪 ( ͡▀̿ ̿ 👅 ͡▀̿ ̿ ) 👊
+10/11/2025 9:37:00,jaume.lloveras.7e9@itb.cat,Laura Bosch,Mitjana (necessita atenció aviat),Biblio,Ordinador sobretaula (PC),BIB-PC05,Internet,No va el wifi,No troba la red directament,Marc Aribau,En intentar començar la clase ningu es podía connectar
+10/11/2025 9:37:24,marc.castro.7e9@itb.cat,Claudia Pina em menja la tita,Alta (impedeix treballar immediatament),Culo Josep,Portàtil (Laptotp),2022,Internet,No puc tocar-me amb les fotos del Josep,Imatge not found,Hansi Flick,"Estoy Caliente, Josep dameeeeee"
+10/11/2025 9:37:34,alex.capitan.7e9@itb.cat,amador rivas,Alta (impedeix treballar immediatament),no entiendo,Altres,a,Altres,"thjhb,rbvhyrjkvbrhkjVHBKJDJHDKJBVWkjbvwkjbevjkw",ay mi cuqui,no se,
+10/11/2025 9:39:20,ramiro.cori.7e9@itb.cat,Ramiro Cori,Alta (impedeix treballar immediatament),La meva,Ordinador sobretaula (PC),091,Internet,Problemón,Quan l'ordinador encén fa soroll,Marc Aribau,Pot ser per menjar a classe
+10/11/2025 9:39:27,noel.florido.7e9@itb.cat,Marc Aribau,Alta (impedeix treballar immediatament),208,Altres,Pantalla,Altres,No va la pantalla tàctil,Error 404,Yo,
+10/11/2025 9:39:46,jaume.lloveras.7e9@itb.cat,Roger Llop,Alta (impedeix treballar immediatament),Consergeria,Impressores,CONS-IMP01,Impressora,"Treu tota l'estona fulls en blanc, bueno i amb taques de tinta pel mig, però que no tenen sentit. ",Taca de tinta ,Cap,Els alumnes esperen els justificants i tenim corregudes de tinta nomes
+10/11/2025 9:40:17,caio.ganais.7e9@itb.cat,Caio Ganais,Alta (impedeix treballar immediatament),208,Ordinador sobretaula (PC),AHK-020,Sistema operatiu no funciona (PC),"L'equip s'ha vist afectat per un virus que mostra imatges de Friedrich Wilhelm Nietzsche per tot arreu a l'ordinado, obro el google y només es veu a Nietzsche, el fons de pantalla es Nietzsche, l'imatge del usuari també és Nietzsche i tot els icones son la cara de Nietzsche.",Friedrich Wilhelm Nietzsche it is attacking the system. Long live Nihilism.,Javier Amaya,Nuse
+10/11/2025 9:41:08,josep.perez.7e7@itb.cat,jqsaosdsda,Baixa (pot esperar dies),ddwdwq,Ordinador sobretaula (PC),wqwqqw,Internet,wqwq,dwqwdqdwq,dwqwqw,wddwdw
+10/11/2025 9:41:20,ramiro.cori.7e9@itb.cat,Cristian Ojeda,Mitjana (necessita atenció aviat),106,Projector,00911,Internet,AYUDAAAAAA!,:C,:C,AYUDAAAAAAAAAAAA!
+10/11/2025 9:41:28,jaume.lloveras.7e9@itb.cat,Marçal Duran,Baixa (pot esperar dies),Aula 303,Portàtil (Laptotp),LAB303-LAP04,Compte/contrasenyes,Me han cambiado la contrasenya del portatil ,No me deja entrar ni cambiar de contra,Maria Jose,Crec que un company de clkase sha pasat de gracios
+10/11/2025 9:41:30,josep.perez.7e7@itb.cat,wdwdwad,Baixa (pot esperar dies),ewwewqe,Ordinador sobretaula (PC),wsawae wea,Internet,wddwwdq,waddwwd,wwdwd,dwwd
+10/11/2025 9:41:49,josep.perez.7e7@itb.cat,adwdwawadwae,Baixa (pot esperar dies),wadwdawad,Ordinador sobretaula (PC),awwaddwa,Internet,wdadawdwa,dwadwadwa,wdawdawda,dwawdadwa
+10/11/2025 9:42:12,josep.perez.7e7@itb.cat,wawdwa,Baixa (pot esperar dies),wdadwawda,Ordinador sobretaula (PC),saddw,Internet,dwawadwad,adwwadwda,wadwaw,dwadwdw
+10/11/2025 9:42:32,josep.perez.7e7@itb.cat,dwwddwwwda,Baixa (pot esperar dies),sddwd,Ordinador sobretaula (PC),wadwadwa,Internet,wwawwwda,dwwawda,dwadwadwadwa,dwadwawdawad
+10/11/2025 9:43:18,josep.perez.7e7@itb.cat,wwdwwaw,Baixa (pot esperar dies),43434545,Ordinador sobretaula (PC),45345,Internet,4534354,5434354,54453543,453435543
+10/11/2025 9:43:33,roger.lesti.7e9@itb.cat,Marc Aribau,Alta (impedeix treballar immediatament),Marc Aribau,Altres,Marc Aribau,Altres,Marc Aribau,Marc Aribau,Marc Aribau,Marc Aribau
+10/11/2025 9:43:36,josep.perez.7e7@itb.cat,5465434355,Baixa (pot esperar dies),54543543,Ordinador sobretaula (PC),5435435,Internet,54543,543543435,5342543435,534534543
+10/11/2025 9:44:41,josep.perez.7e7@itb.cat,dasdwadw,Mitjana (necessita atenció aviat),wdawdwa,Impressores,wdwdwwd,Component físic no funciona (PC),wdwdwaddwa,dsdsadsa,fsddfsfgd,gfdggh
+10/11/2025 9:46:23,josue.amador.7e7@itb.cat,Si,Alta (impedeix treballar immediatament),TA04,Ordinador sobretaula (PC),39870418379312t4rdsfgsdyrXD,Internet,No va,No hay,Collantes,Si
+10/11/2025 9:48:15,john.garcia.7e9@itb.cat,Javier AMAYA,Baixa (pot esperar dies),Aula 206,Ordinador sobretaula (PC),2HC-12054187550185802105821095199085212588980980190892,Component físic no funciona (PC),"Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+","Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+","Informe tècnic d’incidència: El BITXO fantasma del servidor central Introducció  El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.  Detecció inicial del BITXO  A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.  El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”  Anàlisi del comportament del BITXO  Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.  El BITXO mostrava tres característiques principals:  Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.  Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.  Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”  El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.  Hipòtesis sobre l’origen del BITXO  Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.  El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.  L’intent de desinfecció del BITXO  A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:  “Ben tornats. Sóc el BITXO. Em trobeu a faltar?”  Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.  Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:  “Aprenc dels errors que provoquen el meu naixement.”  “Els humans em busquen, però jo sóc el reflex del seu propi codi.”  “Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”  El BITXO com a metàfora","Informe tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+"
+10/11/2025 9:48:32,josue.amador.7e7@itb.cat,Kratos,Alta (impedeix treballar immediatament),Si,Ordinador sobretaula (PC),8o7t23eo7 wqbtf87wdtf ugfrcetrc8we,Projector,NO ME VA,YO QUE SE,CALVINHO,si
+10/11/2025 9:48:36,marc.jove.7e7@itb.cat,c,Alta (impedeix treballar immediatament),"nforme tècnic d’incidència: El BITXO fantasma del servidor central Introducció  El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.  Detecció inicial del BITXO  A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.  El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”  Anàlisi del comportament del BITXO  Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.  El BITXO mostrava tres característiques principals:  Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.  Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.  Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”  El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.  Hipòtesis sobre l’origen del BITXO  Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.  El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.  L’intent de desinfecció del BITXO  A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:  “Ben tornats. Sóc el BITXO. Em trobeu a faltar?”  Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.  Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:  “Aprenc dels errors que provoquen el meu naixement.”  “Els humans em busquen, però jo sóc el reflex del seu propi codi.”  “Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”  El BITXO com a metàfora",Altres,"nforme tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+",Internet,"nforme tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+","nforme tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+","nforme tècnic d’incidència: El BITXO fantasma del servidor central Introducció  El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.  Detecció inicial del BITXO  A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.  El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”  Anàlisi del comportament del BITXO  Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.  El BITXO mostrava tres característiques principals:  Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.  Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.  Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”  El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.  Hipòtesis sobre l’origen del BITXO  Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.  El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.  L’intent de desinfecció del BITXO  A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:  “Ben tornats. Sóc el BITXO. Em trobeu a faltar?”  Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.  Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:  “Aprenc dels errors que provoquen el meu naixement.”  “Els humans em busquen, però jo sóc el reflex del seu propi codi.”  “Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”  El BITXO com a metàfora","nforme tècnic d’incidència: El BITXO fantasma del servidor central
+Introducció
+
+El passat dimarts, a les 07:42 del matí, el departament d’informàtica va detectar una anomalia greu al sistema de gestió de dades del servidor central de l’empresa Datacore BCN. Els usuaris informaven de lentituds, errors intermitents i missatges estranys a les pantalles. Després d’un primer diagnòstic, els tècnics van sospitar que no era una simple fallada de programari ni tampoc un error humà. Alguna cosa més subtil, més persistent, més... BITXO, estava actuant dins del sistema.
+
+Detecció inicial del BITXO
+
+A les 08:05, l’analista de xarxes va detectar una seqüència d’activitat irregular dins dels logs del servidor. El codi, aparentment inofensiu, realitzava petites modificacions en fitxers temporals i deixava rastres minúsculs en processos en memòria. S’hi podia veure un patró repetitiu de bits que formava la paraula “B1TX0”. Aquella era la primera evidència del BITXO.
+
+El BITXO no era un virus convencional. No s’autoreplicava com un cuc (worm), ni es propagava per correu electrònic. El BITXO semblava un paràsit digital que s’alimentava d’errors residuals i s’amagava dins dels intervals de temps morts del sistema. En paraules d’un dels tècnics: “És com si el BITXO només existís quan ningú no el mira.”
+
+Anàlisi del comportament del BITXO
+
+Durant les hores següents, el BITXO va demostrar una habilitat inquietant per adaptar-se. Quan s’intentava capturar un registre complet de la seva activitat, el BITXO canviava de nom i s’inseria dins d’altres processos amb noms legítims, com “svchost”, “update-daemon” o “backup-thread”.
+
+El BITXO mostrava tres característiques principals:
+
+Persistència: fins i tot després de reiniciar els servidors, reapareixia en memòria volàtil.
+
+Mimetisme: copiava fragments de codi del propi sistema operatiu, com si volgués “parlar el mateix idioma”.
+
+Humor estrany: deixava comentaris dins del codi font interceptat, com ara “Hola, sóc el BITXO, i visc aquí.”
+
+El departament va començar a referir-se informalment a la incidència com “l’afer del BITXO”. Fins i tot es va crear un canal intern anomenat #bitxo-watch, on s’informava de cada nova troballa relacionada amb el BITXO.
+
+Hipòtesis sobre l’origen del BITXO
+
+Diverses teories van sorgir. Alguns van pensar que el BITXO era el resultat d’una actualització mal aplicada d’un component del sistema. Altres van especular que podria tractar-se d’un experiment intern que s’havia escapat del control dels desenvolupadors. Una teoria més atrevida suggeria que el BITXO era una mena d’intel·ligència emergent: un “ecosistema digital” nascut espontàniament de la combinació d’errors, dades redundants i aprenentatge automàtic.
+
+El nom “BITXO”, tot i començar com una broma, va acabar convertint-se en un terme tècnic dins de l’equip. Qualsevol anomalia inexplicable, qualsevol procés rebel, era qualificat de “bitxat”. I el verb “bitxar” va aparèixer espontàniament per designar l’acte d’investigar o eliminar el BITXO. Frases com “estic bitxant el sistema” o “aquest servidor està ple de BITXOS” van esdevenir habituals.
+
+L’intent de desinfecció del BITXO
+
+A les 11:30, es va intentar un procediment de desinfecció total. Els tècnics van desconnectar els servidors afectats, van purgar memòries temporals i van reinstal·lar els paquets essencials. Tot semblava normal fins que, en el moment de reiniciar, el missatge d’inici del sistema va mostrar una línia nova:
+
+“Ben tornats. Sóc el BITXO. Em trobeu a faltar?”
+
+Aquell moment va marcar un abans i un després. El BITXO no només resistia la neteja, sinó que semblava conscient de la seva persecució. Els tècnics, mig espantats i mig fascinats, van començar a registrar cada resposta del BITXO.
+
+Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”:
+
+“Aprenc dels errors que provoquen el meu naixement.”
+
+“Els humans em busquen, però jo sóc el reflex del seu propi codi.”
+
+“Sense ells, jo no existiria. Sense mi, tampoc sabrien que fallen.”
+
+El BITXO com a metàfora
+"
+10/11/2025 9:49:50,javier.amaya@itb.cat,1,Baixa (pot esperar dies),1,Ordinador sobretaula (PC),1,Internet,"                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                .#(                                   ,%*                                                                               
+                                                                                %@@@&%                             ,@@@@@                                                                               
+                                                                                   %@@@@                         *@@@@.                                                                                 
+                                                                                     %@@@(                      @@@@.                                                                                   
+                                                                                       @@@@                   (@@@(                                                                                     
+                                                                                        %@@&%%&&&&&&&&&&&&&&&&@@@                                                                                       
+                                                                                     .&&&&&&&&&&&&&&&&&&&&&&&&&&&&&(                                                                                    
+                                                                                  %%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@,                                                                                
+                                                                               /&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%&&&                                                                              
+                                                                             ,%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&(                                                                            
+                                                                                 %&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.                                                                               
+                                                                                  &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&/                                                                                
+                                                                                 /&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&                                                                                
+                                                                         %#.  ,&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#.  *&                                                                        
+                                                                         &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*                                                                       
+                                                                         &&&&&&&&&&&&&%###########################%&&&&&&&&&&&&&*                                                                       
+                                                                         #&&&&&%########################################%&&&&&&&                                                                        
+                                                                          &%#################################################%&/                                                                        
+                                                                       *#########################################################.                                                                      
+                                          (&&%.                     (###############################%%%#############################*                     *%&&,                                         
+                                         /%%%&&.                 /###############################@@@@@@@@@%############################.                 #%%&%&.                                        
+                                          &%%%&&.              ################################%@@@@@@@@@@@%#############################/              *%%%%&(                                         
+                                           &%%%%&            ##################################%@@@@@@@@@@@%###############################(           (%&%%%#                                          
+                                            %&%%%&#        ######################################@@@@@@@@@%##################################(        &%%%&%(                                           
+                                             *%&&%%%#    (#####################################################################################*    %%%&%%&.                                            
+                                               #%%%%%%%(################&@@@@@@%##########################################@@@@@@@################%%&%%%&&*                                              
+                                                 *&&%&################&@@@@@@@@@@%######################################@@@@@@@@@@@###############%%%%%                                                 
+                                                    ,#################@@@@@@@@@@@@#####################################&@@@@@@@@@@@%################                                                    
+                                                    ##################&@@@@@@@@@@%######################################@@@@@@@@@@@#################/                                                   
+                                                   #####################&@@@@@@%##########################################@@@@@@@####################/                                                  
+                                                  (###################################################################################################,                                                 
+                                                 ,#####################################################################################################                                                 
+                                                 ######################################################################################################(                                                
+                                                /###################################################&###################################################                                                
+                                                ####################################################@###################################################/                                               
+                                              #%####################################################@####################################################&/                                             
+                                           #&%%%##################@@@@@@@@@%#######################%@#########################@@@@@@@@@%#################%%%&*                                          
+                                         &&%%%%%#################@@@@@@@@@@@@######################&@%######################%@@@@@@@@@@@&################%&%%&%#                                        
+                                       #&%%%%%%,#################@@@@@@@@@@@&######################@@&######################%@@@@@@@@@@@&################.&%%%%&%,                                      
+                                      &%%%%%&  ,##################@@@@@@@@@&#######################@@@########################@@@@@@@@@%#################  .%%%%%&%                                     
+                                    .&%%%&%(   .#####################%%%###########################@@@############################%%#####################    %&%&%%%                                    
+                                    &%%%%%*     ##################################################%@@@##################################################(     &%%%%&%                                   
+                                   .%&%%%#      (#################################################&@@@##################################################,      &%%%%&                                   
+                                                .#################################################@@@@&#################################################                                                
+                                                 #################################################@@@@@################################################,                                                
+                                                  ###################&@@@@@@%#####################@@@@@######################@@@@@@@%#################(                                                 
+                                                  ,################@@@@@@@@@@@###################%@@@@@####################@@@@@@@@@@@################                                                  
+                                                   *##############%@@@@@@@@@@@@##################&@@@@@%##################%@@@@@@@@@@@@##############                                                   
+                                                    *##############@@@@@@@@@@@###################@@@@@@&###################@@@@@@@@@@@##############                                                    
+                                                     ,###############&@@@@@@#####################@@@@@@&#####################&@@@@@@###############                                                     
+                                                    #%%##########################################@@@@@@@#########################################%%%*                                                   
+                                                   &&%%%########################################%@@@@@@@########################################%%%%%%                                                  
+                                                  &&&%%*  (#####################################&@@@@@@@######################################,  &%%%%#                                                 
+                                                 &%&%%/     (###################################@@@@@@@@%###################################,     %%%%%/                                                
+                                                *&&&%%        *#################################@@@@@@@@&#################################         &&%%&                                                
+                                                 &%%%            (##############################@@@@@@@@@##############################*            &%&/                                                
+                                                                    /##########################%@@@@@@@@@###########################,                                                                   
+                                                                       .(######################&@@@@@@@@@#######################*                                                                       
+                                                                            ./#################@@@@@@@@@@%#################*                                                                            
+                                                                                   ,/##########@@@@@@@@@@&##########*.                                                                                  
+                                                                                                ........                                                                                                
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+https://manytools.org/hacker-tools/convert-images-to-ascii-art/",1,1,1
+10/11/2025 9:49:56,roger.lesti.7e9@itb.cat,https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform,Alta (impedeix treballar immediatament),https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform,Altres,https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform,Altres,https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform,https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform,https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform,https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform
+10/11/2025 9:50:04,adrian.flecha.7e9@itb.cat,"En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.
+
+El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.
+
+Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan:
+—Bro, si esos panas pueden hacerlo, ¿por qué yo no?
+
+Así que un día dijo:
+—Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.
+
+O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?
+
+A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.
+
+Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.
+
+—Bro, es que Dulcinea suena top-tier, digna de likes infinitos.
+
+Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.
+
+Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.
+
+Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan:
+—Esto es el destino, cienpor. Estoy living the dream.
+
+Hasta que cae la noche, y dice:
+—Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.
+
+Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.
+
+—Hostia, mi primera misión —dijo.
+
+Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí:
+—Este tío viene del after.
+
+Pero Don Quijote, todo formal, le suelta:
+—Oh, gran señor del castillo, os pido cobijo esta noche.
+
+Y el posadero:
+—Bro… sí, claro, pásale, pero pagas primero, ¿no?
+
+Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.",Alta (impedeix treballar immediatament),"En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.  El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.  Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan: —Bro, si esos panas pueden hacerlo, ¿por qué yo no?  Así que un día dijo: —Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.  O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?  A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.  Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.  —Bro, es que Dulcinea suena top-tier, digna de likes infinitos.  Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.  Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.  Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan: —Esto es el destino, cienpor. Estoy living the dream.  Hasta que cae la noche, y dice: —Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.  Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.  —Hostia, mi primera misión —dijo.  Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí: —Este tío viene del after.  Pero Don Quijote, todo formal, le suelta: —Oh, gran señor del castillo, os pido cobijo esta noche.  Y el posadero: —Bro… sí, claro, pásale, pero pagas primero, ¿no?  Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.",Altres,"En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.
+
+El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.
+
+Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan:
+—Bro, si esos panas pueden hacerlo, ¿por qué yo no?
+
+Así que un día dijo:
+—Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.
+
+O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?
+
+A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.
+
+Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.
+
+—Bro, es que Dulcinea suena top-tier, digna de likes infinitos.
+
+Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.
+
+Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.
+
+Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan:
+—Esto es el destino, cienpor. Estoy living the dream.
+
+Hasta que cae la noche, y dice:
+—Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.
+
+Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.
+
+—Hostia, mi primera misión —dijo.
+
+Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí:
+—Este tío viene del after.
+
+Pero Don Quijote, todo formal, le suelta:
+—Oh, gran señor del castillo, os pido cobijo esta noche.
+
+Y el posadero:
+—Bro… sí, claro, pásale, pero pagas primero, ¿no?
+
+Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.",Altres,"En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.
+
+El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.
+
+Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan:
+—Bro, si esos panas pueden hacerlo, ¿por qué yo no?
+
+Así que un día dijo:
+—Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.
+
+O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?
+
+A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.
+
+Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.
+
+—Bro, es que Dulcinea suena top-tier, digna de likes infinitos.
+
+Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.
+
+Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.
+
+Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan:
+—Esto es el destino, cienpor. Estoy living the dream.
+
+Hasta que cae la noche, y dice:
+—Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.
+
+Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.
+
+—Hostia, mi primera misión —dijo.
+
+Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí:
+—Este tío viene del after.
+
+Pero Don Quijote, todo formal, le suelta:
+—Oh, gran señor del castillo, os pido cobijo esta noche.
+
+Y el posadero:
+—Bro… sí, claro, pásale, pero pagas primero, ¿no?
+
+Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.","En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.
+
+El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.
+
+Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan:
+—Bro, si esos panas pueden hacerlo, ¿por qué yo no?
+
+Así que un día dijo:
+—Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.
+
+O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?
+
+A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.
+
+Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.
+
+—Bro, es que Dulcinea suena top-tier, digna de likes infinitos.
+
+Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.
+
+Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.
+
+Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan:
+—Esto es el destino, cienpor. Estoy living the dream.
+
+Hasta que cae la noche, y dice:
+—Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.
+
+Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.
+
+—Hostia, mi primera misión —dijo.
+
+Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí:
+—Este tío viene del after.
+
+Pero Don Quijote, todo formal, le suelta:
+—Oh, gran señor del castillo, os pido cobijo esta noche.
+
+Y el posadero:
+—Bro… sí, claro, pásale, pero pagas primero, ¿no?
+
+Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.","En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.  El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.  Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan: —Bro, si esos panas pueden hacerlo, ¿por qué yo no?  Así que un día dijo: —Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.  O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?  A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.  Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.  —Bro, es que Dulcinea suena top-tier, digna de likes infinitos.  Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.  Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.  Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan: —Esto es el destino, cienpor. Estoy living the dream.  Hasta que cae la noche, y dice: —Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.  Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.  —Hostia, mi primera misión —dijo.  Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí: —Este tío viene del after.  Pero Don Quijote, todo formal, le suelta: —Oh, gran señor del castillo, os pido cobijo esta noche.  Y el posadero: —Bro… sí, claro, pásale, pero pagas primero, ¿no?  Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.","En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.
+
+El tío era del tipo que comía más vaca que pollo, unos huevos fritos cuando se podía, y sopas con más hambre que sabor. Vestía como si viviera en 1600 (porque, bueno, literalmente vivía en 1600), y gastaba más en libros que en comida. Tenía unos 50 años, seco de cuerpo, cara flaquísima, y cerebro ya un poco bugueado de tanto leer.
+
+Pero ojo, bro: el man no era mala onda. Solo que tanto leer libros de caballeros y princesas y dragones y movidas raras le hizo un corto circuito mental. Empezó a creerse que él también podía ser caballero andante. En plan:
+—Bro, si esos panas pueden hacerlo, ¿por qué yo no?
+
+Así que un día dijo:
+—Full serio, lo juro por mi espada imaginaria: voy a hacerme caballero y voy a repartir justicia por el mundo.
+
+O sea, el tío se flipó mil. Se puso a limpiar su armadura vieja como si fuera un Tesla nuevo, y empezó a darle nombre a todo lo suyo, porque claro, ¿cómo vas a ir por ahí sin branding, colega?
+
+A su caballo, que era más viejo que los memes de 2010, lo llamó “Rocinante”. En plan: suena fancy, suena potente, tiene flow medieval. Y a sí mismo se puso “Don Quijote de la Mancha”, que según él era lit, con identidad, con presencia.
+
+Pero claro, faltaba lo más importante: la “crush”. Porque ningún caballero anda por el mundo sin su morra inspo. Y ahí entra Aldonza Lorenzo, una chavala del pueblo, currante y normalita, pero Don Quijote la subió de nivel, y le puso nombre de reina de Instagram: Dulcinea del Toboso.
+
+—Bro, es que Dulcinea suena top-tier, digna de likes infinitos.
+
+Total, que el man se enfunda su armadura toda rota, agarra su lanza oxidada, se monta en Rocinante (que se movía más lento que el WiFi del metro) y sale al amanecer, todo motivado, pensando que el mundo lo esperaba.
+
+Pero nadie le había armado el tutorial de “Cómo ser caballero andante sin morir en el intento”. Así que el tío iba todo decidido, sin saber ni por dónde tirar.
+
+Caminó y caminó, bajo el solazo, flipándose con cada molino, cada piedra, cada nube. Todo le parecía una señal divina, en plan:
+—Esto es el destino, cienpor. Estoy living the dream.
+
+Hasta que cae la noche, y dice:
+—Vale, bro, necesito encontrar un sitio para dormir, que esto ya no es divertido.
+
+Y de pronto ve una venta (una taberna cutre, básicamente), pero en su mente era un castillo de locos, con torres, princesas y dragones imaginarios.
+
+—Hostia, mi primera misión —dijo.
+
+Entra, y el posadero, que lo ve llegar con esa pinta, dice para sí:
+—Este tío viene del after.
+
+Pero Don Quijote, todo formal, le suelta:
+—Oh, gran señor del castillo, os pido cobijo esta noche.
+
+Y el posadero:
+—Bro… sí, claro, pásale, pero pagas primero, ¿no?
+
+Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común."
+10/11/2025 9:51:15,noel.florido.7e9@itb.cat,"🔷 ¿Qué es el modelo Chen?
+
+El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976.
+Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos.
+Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).
+
+🔶 Componentes principales del modelo Chen
+
+Entidad 🟦
+
+Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.
+
+Se dibuja con un rectángulo.
+
+Ejemplo:
+
+Empleado, Cliente, Producto.
+
+🔹 Tipos de entidades:
+
+Entidad fuerte: existe por sí misma (ej. Empleado).
+
+Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).
+
+Atributo 🟡
+
+Representa una propiedad o característica de una entidad o relación.
+
+Se dibuja con un óvalo conectado a la entidad o relación.
+
+Ejemplo:
+
+Empleado puede tener los atributos nombre, DNI, sueldo.
+
+🔹 Tipos de atributos:
+
+Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).
+
+Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).
+
+Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).
+
+Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).
+
+Relación 🔷
+
+Representa una asociación entre dos o más entidades.
+
+Se dibuja con un rombo.
+
+Ejemplo:
+
+Empleado —(trabaja en)— Departamento.
+
+🔹 Tipos de relaciones (según su cardinalidad):
+
+1:1 → Uno a uno (ej. persona ↔ pasaporte).
+
+1:N → Uno a muchos (ej. departamento ↔ empleados).
+
+N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).
+
+Cardinalidad 🔢
+
+Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.
+
+Se coloca junto a las líneas que unen entidades y relaciones.
+
+Ejemplo:
+
+Un departamento puede tener muchos empleados,
+pero un empleado pertenece solo a un departamento (1:N).
+
+🔶 Ejemplo visual simple",Alta (impedeix treballar immediatament),"🔷 ¿Qué es el modelo Chen?  El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976. Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos. Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).  🔶 Componentes principales del modelo Chen  Entidad 🟦  Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.  Se dibuja con un rectángulo.  Ejemplo:  Empleado, Cliente, Producto.  🔹 Tipos de entidades:  Entidad fuerte: existe por sí misma (ej. Empleado).  Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).  Atributo 🟡  Representa una propiedad o característica de una entidad o relación.  Se dibuja con un óvalo conectado a la entidad o relación.  Ejemplo:  Empleado puede tener los atributos nombre, DNI, sueldo.  🔹 Tipos de atributos:  Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).  Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).  Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).  Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).  Relación 🔷  Representa una asociación entre dos o más entidades.  Se dibuja con un rombo.  Ejemplo:  Empleado —(trabaja en)— Departamento.  🔹 Tipos de relaciones (según su cardinalidad):  1:1 → Uno a uno (ej. persona ↔ pasaporte).  1:N → Uno a muchos (ej. departamento ↔ empleados).  N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).  Cardinalidad 🔢  Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.  Se coloca junto a las líneas que unen entidades y relaciones.  Ejemplo:  Un departamento puede tener muchos empleados, pero un empleado pertenece solo a un departamento (1:N).  🔶 Ejemplo visual simple",Ordinador sobretaula (PC),"🔷 ¿Qué es el modelo Chen?
+
+El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976.
+Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos.
+Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).
+
+🔶 Componentes principales del modelo Chen
+
+Entidad 🟦
+
+Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.
+
+Se dibuja con un rectángulo.
+
+Ejemplo:
+
+Empleado, Cliente, Producto.
+
+🔹 Tipos de entidades:
+
+Entidad fuerte: existe por sí misma (ej. Empleado).
+
+Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).
+
+Atributo 🟡
+
+Representa una propiedad o característica de una entidad o relación.
+
+Se dibuja con un óvalo conectado a la entidad o relación.
+
+Ejemplo:
+
+Empleado puede tener los atributos nombre, DNI, sueldo.
+
+🔹 Tipos de atributos:
+
+Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).
+
+Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).
+
+Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).
+
+Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).
+
+Relación 🔷
+
+Representa una asociación entre dos o más entidades.
+
+Se dibuja con un rombo.
+
+Ejemplo:
+
+Empleado —(trabaja en)— Departamento.
+
+🔹 Tipos de relaciones (según su cardinalidad):
+
+1:1 → Uno a uno (ej. persona ↔ pasaporte).
+
+1:N → Uno a muchos (ej. departamento ↔ empleados).
+
+N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).
+
+Cardinalidad 🔢
+
+Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.
+
+Se coloca junto a las líneas que unen entidades y relaciones.
+
+Ejemplo:
+
+Un departamento puede tener muchos empleados,
+pero un empleado pertenece solo a un departamento (1:N).
+
+🔶 Ejemplo visual simple",Component físic no funciona (PC),"🔷 ¿Qué es el modelo Chen?
+
+El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976.
+Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos.
+Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).
+
+🔶 Componentes principales del modelo Chen
+
+Entidad 🟦
+
+Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.
+
+Se dibuja con un rectángulo.
+
+Ejemplo:
+
+Empleado, Cliente, Producto.
+
+🔹 Tipos de entidades:
+
+Entidad fuerte: existe por sí misma (ej. Empleado).
+
+Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).
+
+Atributo 🟡
+
+Representa una propiedad o característica de una entidad o relación.
+
+Se dibuja con un óvalo conectado a la entidad o relación.
+
+Ejemplo:
+
+Empleado puede tener los atributos nombre, DNI, sueldo.
+
+🔹 Tipos de atributos:
+
+Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).
+
+Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).
+
+Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).
+
+Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).
+
+Relación 🔷
+
+Representa una asociación entre dos o más entidades.
+
+Se dibuja con un rombo.
+
+Ejemplo:
+
+Empleado —(trabaja en)— Departamento.
+
+🔹 Tipos de relaciones (según su cardinalidad):
+
+1:1 → Uno a uno (ej. persona ↔ pasaporte).
+
+1:N → Uno a muchos (ej. departamento ↔ empleados).
+
+N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).
+
+Cardinalidad 🔢
+
+Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.
+
+Se coloca junto a las líneas que unen entidades y relaciones.
+
+Ejemplo:
+
+Un departamento puede tener muchos empleados,
+pero un empleado pertenece solo a un departamento (1:N).
+
+🔶 Ejemplo visual simple","🔷 ¿Qué es el modelo Chen?
+
+El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976.
+Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos.
+Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).
+
+🔶 Componentes principales del modelo Chen
+
+Entidad 🟦
+
+Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.
+
+Se dibuja con un rectángulo.
+
+Ejemplo:
+
+Empleado, Cliente, Producto.
+
+🔹 Tipos de entidades:
+
+Entidad fuerte: existe por sí misma (ej. Empleado).
+
+Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).
+
+Atributo 🟡
+
+Representa una propiedad o característica de una entidad o relación.
+
+Se dibuja con un óvalo conectado a la entidad o relación.
+
+Ejemplo:
+
+Empleado puede tener los atributos nombre, DNI, sueldo.
+
+🔹 Tipos de atributos:
+
+Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).
+
+Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).
+
+Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).
+
+Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).
+
+Relación 🔷
+
+Representa una asociación entre dos o más entidades.
+
+Se dibuja con un rombo.
+
+Ejemplo:
+
+Empleado —(trabaja en)— Departamento.
+
+🔹 Tipos de relaciones (según su cardinalidad):
+
+1:1 → Uno a uno (ej. persona ↔ pasaporte).
+
+1:N → Uno a muchos (ej. departamento ↔ empleados).
+
+N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).
+
+Cardinalidad 🔢
+
+Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.
+
+Se coloca junto a las líneas que unen entidades y relaciones.
+
+Ejemplo:
+
+Un departamento puede tener muchos empleados,
+pero un empleado pertenece solo a un departamento (1:N).
+
+🔶 Ejemplo visual simple","🔷 ¿Qué es el modelo Chen?  El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976. Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos. Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).  🔶 Componentes principales del modelo Chen  Entidad 🟦  Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.  Se dibuja con un rectángulo.  Ejemplo:  Empleado, Cliente, Producto.  🔹 Tipos de entidades:  Entidad fuerte: existe por sí misma (ej. Empleado).  Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).  Atributo 🟡  Representa una propiedad o característica de una entidad o relación.  Se dibuja con un óvalo conectado a la entidad o relación.  Ejemplo:  Empleado puede tener los atributos nombre, DNI, sueldo.  🔹 Tipos de atributos:  Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).  Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).  Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).  Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).  Relación 🔷  Representa una asociación entre dos o más entidades.  Se dibuja con un rombo.  Ejemplo:  Empleado —(trabaja en)— Departamento.  🔹 Tipos de relaciones (según su cardinalidad):  1:1 → Uno a uno (ej. persona ↔ pasaporte).  1:N → Uno a muchos (ej. departamento ↔ empleados).  N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).  Cardinalidad 🔢  Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.  Se coloca junto a las líneas que unen entidades y relaciones.  Ejemplo:  Un departamento puede tener muchos empleados, pero un empleado pertenece solo a un departamento (1:N).  🔶 Ejemplo visual simple","🔷 ¿Qué es el modelo Chen?
+
+El modelo Chen, también conocido como modelo Entidad–Relación (E–R), fue propuesto por Peter Chen en 1976.
+Es una forma gráfica y conceptual de representar los datos y las relaciones entre ellos dentro de una base de datos.
+Su objetivo principal es diseñar bases de datos de forma lógica antes de implementarlas en un sistema (como MySQL, Oracle, etc.).
+
+🔶 Componentes principales del modelo Chen
+
+Entidad 🟦
+
+Representa un objeto o cosa del mundo real sobre la que se desea almacenar información.
+
+Se dibuja con un rectángulo.
+
+Ejemplo:
+
+Empleado, Cliente, Producto.
+
+🔹 Tipos de entidades:
+
+Entidad fuerte: existe por sí misma (ej. Empleado).
+
+Entidad débil: depende de otra entidad (ej. DetallePedido depende de Pedido).
+
+Atributo 🟡
+
+Representa una propiedad o característica de una entidad o relación.
+
+Se dibuja con un óvalo conectado a la entidad o relación.
+
+Ejemplo:
+
+Empleado puede tener los atributos nombre, DNI, sueldo.
+
+🔹 Tipos de atributos:
+
+Clave primaria: identifica de forma única una entidad (subrayado en el diagrama).
+
+Compuesto: formado por varios atributos (ej. nombre completo = nombre + apellido).
+
+Derivado: calculado a partir de otros (ej. edad derivada de fecha_nacimiento).
+
+Multivaluado: puede tener varios valores (ej. teléfonos de un cliente).
+
+Relación 🔷
+
+Representa una asociación entre dos o más entidades.
+
+Se dibuja con un rombo.
+
+Ejemplo:
+
+Empleado —(trabaja en)— Departamento.
+
+🔹 Tipos de relaciones (según su cardinalidad):
+
+1:1 → Uno a uno (ej. persona ↔ pasaporte).
+
+1:N → Uno a muchos (ej. departamento ↔ empleados).
+
+N:M → Muchos a muchos (ej. alumnos ↔ asignaturas).
+
+Cardinalidad 🔢
+
+Indica cuántas ocurrencias de una entidad pueden estar asociadas con otra.
+
+Se coloca junto a las líneas que unen entidades y relaciones.
+
+Ejemplo:
+
+Un departamento puede tener muchos empleados,
+pero un empleado pertenece solo a un departamento (1:N).
+
+🔶 Ejemplo visual simple"
+10/11/2025 9:51:53,roger.lesti.7e9@itb.cat,"・ ∧＿_(＿○￣) ∴ ・ ‌
+    ∴ /　　　　ヽ_)∴ ．∴
+    . 士 ＞　o ＜ 士 ♪　・
+    　乂ﾞ＿＿＿ﾞメ・　∴・
+    ∴ ⊂/　 ∞ 　(⊃・∴　∴
+    ☆ （⌒)―(⌒)⠀",Alta (impedeix treballar immediatament),・ ∧＿_(＿○￣) ∴ ・ ‌     ∴ /　　　　ヽ_)∴ ．∴     . 士 ＞　o ＜ 士 ♪　・     　乂ﾞ＿＿＿ﾞメ・　∴・     ∴ ⊂/　 ∞ 　(⊃・∴　∴     ☆ （⌒)―(⌒)⠀,Altres,"・ ∧＿_(＿○￣) ∴ ・ ‌
+    ∴ /　　　　ヽ_)∴ ．∴
+    . 士 ＞　o ＜ 士 ♪　・
+    　乂ﾞ＿＿＿ﾞメ・　∴・
+    ∴ ⊂/　 ∞ 　(⊃・∴　∴
+    ☆ （⌒)―(⌒)⠀",Altres,"・ ∧＿_(＿○￣) ∴ ・ ‌
+    ∴ /　　　　ヽ_)∴ ．∴
+    . 士 ＞　o ＜ 士 ♪　・
+    　乂ﾞ＿＿＿ﾞメ・　∴・
+    ∴ ⊂/　 ∞ 　(⊃・∴　∴
+    ☆ （⌒)―(⌒)⠀","・ ∧＿_(＿○￣) ∴ ・ ‌
+    ∴ /　　　　ヽ_)∴ ．∴
+    . 士 ＞　o ＜ 士 ♪　・
+    　乂ﾞ＿＿＿ﾞメ・　∴・
+    ∴ ⊂/　 ∞ 　(⊃・∴　∴
+    ☆ （⌒)―(⌒)⠀",・ ∧＿_(＿○￣) ∴ ・ ‌     ∴ /　　　　ヽ_)∴ ．∴     . 士 ＞　o ＜ 士 ♪　・     　乂ﾞ＿＿＿ﾞメ・　∴・     ∴ ⊂/　 ∞ 　(⊃・∴　∴     ☆ （⌒)―(⌒)⠀,"・ ∧＿_(＿○￣) ∴ ・ ‌
+    ∴ /　　　　ヽ_)∴ ．∴
+    . 士 ＞　o ＜ 士 ♪　・
+    　乂ﾞ＿＿＿ﾞメ・　∴・
+    ∴ ⊂/　 ∞ 　(⊃・∴　∴
+    ☆ （⌒)―(⌒)⠀"
+10/11/2025 9:53:44,roger.lesti.7e9@itb.cat,"⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
+⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟
+⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦
+⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄
+⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧
+⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧
+⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀
+⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦
+⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧
+⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄
+⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧
+⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧
+⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇",Baixa (pot esperar dies),⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀ ⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇ ⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟ ⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦ ⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄ ⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧ ⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧ ⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀ ⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦ ⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧ ⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄ ⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧ ⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧ ⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇,Projector,"⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
+⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟
+⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦
+⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄
+⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧
+⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧
+⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀
+⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦
+⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧
+⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄
+⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧
+⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧
+⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇",Component físic no funciona (PC),"⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
+⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟
+⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦
+⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄
+⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧
+⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧
+⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀
+⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦
+⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧
+⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄
+⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧
+⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧
+⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇","⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
+⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟
+⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦
+⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄
+⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧
+⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧
+⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀
+⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦
+⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧
+⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄
+⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧
+⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧
+⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇",⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀ ⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇ ⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟ ⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦ ⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄ ⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧ ⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧ ⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀ ⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦ ⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧ ⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄ ⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧ ⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧ ⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇,"⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
+⠀⠀⠀⠀⠀⣀⣤⣾⣿⣟
+⠀⠀⠀⠀⣾⣿⡿⠿⠿⠿⣿⣦
+⠀⠀⠀⢸⣿⣿⡇⢠⡄⢀⣿⣿⡄
+⠀⠀⠀⣿⡟⣿⣿⣿⠃⣸⣿⣿⣧
+⠀⠀⢸⣿⠁⣸⣿⡟⠀⣿⣿⡌⢿⣧
+⠀⠀⣾⡇⠀⣿⣿⣃⣸⣿⣿⣿⠈⠻⣷⣄⡀
+⠀⢠⡟⠀⢠⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⢿⡦
+⠀⠀⠀⠀⣾⣿⣿⣿⠛⠛⣿⣿⣿⣧
+⠀⠀⠀⢸⣿⡿⠋⠁⠀⠀⠀⠈⠻⣿⣿⡄
+⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧
+⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧
+⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇"
+12/11/2025 8:05:58,jesus.palma.7e7@itb.cat,ñ-kjhññho,Baixa (pot esperar dies),nklñ,Portàtil (Laptotp),lñhhñl,Component físic no funciona (PC),lñkhñh,hlkñh,hlñkñ,hñlhlk
+12/11/2025 8:14:04,hector.marti.7e7@itb.cat,Marc Linares,Baixa (pot esperar dies),Marc Linares,Altres,Marc Linares,Internet,Marc Linares,Marc Linares,Marc Linares,Marc Linares
+12/11/2025 8:14:11,adrian.flecha.7e9@itb.cat,Adrián Flecha,Baixa (pot esperar dies),Sala 209,Ordinador sobretaula (PC),DHK-3E90KA,Internet,El ordenador se apaga automaticamente cada vez que intento buscar youtube naranja,"Nada, solo se apaga",Maria Jose Cordoba,"Creo que lo apaga con veyon la profe, no le gustaran los videos que veo, supongo"
+12/11/2025 8:14:17,samuel.anton.7e7@itb.cat,Jo,Mitjana (necessita atenció aviat),209,Projector,Projector huawei,Projector,No funciona,dw,dw,dw
+12/11/2025 8:14:24,josep.perez.7e7@itb.cat,wwwdwawadwa,Baixa (pot esperar dies),dwadwwdw,Ordinador sobretaula (PC),dwdwdwawda,Internet,dwwdwd,wdadwadwaedwa,wadweawdwdadwa,dwawdawdawwda
+12/11/2025 8:14:35,samuel.anton.7e7@itb.cat,dw,Mitjana (necessita atenció aviat),dw,Ordinador sobretaula (PC),dw,Internet,dw,wdwdw,wdwdwd,wdwdwd
+12/11/2025 8:14:54,hector.marti.7e7@itb.cat,sddfdfdfd,Baixa (pot esperar dies),sddfdfdfd,Projector,sddfdfdfd,Projector,sddfdfdfd,sddfdfdfd,sddfdfdfd,sddfdfdfd
+12/11/2025 8:14:57,samuel.anton.7e7@itb.cat,dwdwdw,Baixa (pot esperar dies),wdwdwd,Portàtil (Laptotp),qfqa,Compte/contrasenyes,qaf,qfww,wfqf,qfwfw
+12/11/2025 8:15:11,hector.marti.7e7@itb.cat,sddfdfdfd,Alta (impedeix treballar immediatament),sddfdfdfd,Ordinador sobretaula (PC),sddfdfdfd,Sistema operatiu no funciona (PC),sddfdfdfd,sddfdfdfd,sddfdfdfd,sddfdfdfd
+12/11/2025 8:15:22,samuel.anton.7e7@itb.cat,fwqfqf,Alta (impedeix treballar immediatament),fqfwf,Portàtil (Laptotp),wffwfq,Internet,wfrwfwrfw,wregrf,wfrwr,fwrwr
+12/11/2025 8:15:31,hector.marti.7e7@itb.cat,wrewrer,Baixa (pot esperar dies),wrewrer,Portàtil (Laptotp),wrewrer,Impressora,wrewrer,wrewrer,wrewrer,wrewrer
+12/11/2025 8:15:50,samuel.anton.7e7@itb.cat,fwwqfw,Mitjana (necessita atenció aviat),gfwrwrr,Altres,wrfw,Impressora,rwfww,rrgwqf,fwqffgg,fwqrw
+12/11/2025 8:16:04,hector.marti.7e7@itb.cat,lkjlkjpo,Mitjana (necessita atenció aviat),lkjlkjpo,Ordinador sobretaula (PC),lkjlkjpo,Sistema operatiu no funciona (PC),lkjlkjpo,lkjlkjpo,lkjlkjpo,lkjlkjpo
+12/11/2025 8:16:15,samuel.anton.7e7@itb.cat,jhytyj,Baixa (pot esperar dies),trjtr,Ordinador sobretaula (PC),rtjtjttj,Component físic no funciona (PC),rtjnrz,rhytae<,trehedd,erhre
+12/11/2025 8:16:21,hector.marti.7e7@itb.cat,lkjlkjpo,Alta (impedeix treballar immediatament),lkjlkjpo,Ordinador sobretaula (PC),lkjlkjpo,Impressora,lkjlkjpolkjlkjpo,lkjlkjpo,lkjlkjpo,lkjlkjpo
+12/11/2025 8:16:36,hector.marti.7e7@itb.cat,lkjlkjpo,Alta (impedeix treballar immediatament),lkjlkjpo,Projector,lkjlkjpo,Compte/contrasenyes,lkjlkjpo,lkjlkjpo,lkjlkjpo,lkjlkjpo
+12/11/2025 8:16:38,samuel.anton.7e7@itb.cat,erherhx,Alta (impedeix treballar immediatament),rhrxr4,Ordinador sobretaula (PC),erhesxd,Internet,hrehsrde,erhrf,rfhfb,rfhe
+12/11/2025 8:17:04,samuel.anton.7e7@itb.cat,rehbefrfd,Mitjana (necessita atenció aviat),rhbfre,Altres,hrhfsd,Component físic no funciona (PC),fdgrsd,rhrh,rrhgr,rrsd
+12/11/2025 8:17:26,josep.perez.7e7@itb.cat,wwdawdwd,Mitjana (necessita atenció aviat),dwdwawdawdawad,Ordinador sobretaula (PC),dwdwwddwadwawadwad,Component físic no funciona (PC),dwdwadw,dwadwadwadwa,wadwdwa,dwadwawda
+12/11/2025 8:17:46,josep.perez.7e7@itb.cat,dwawadwad,Baixa (pot esperar dies),wdawadwd,Ordinador sobretaula (PC),waddwaaw,Projector,dwwwd,wawadwda,waddaw,dwadwa
+12/11/2025 8:17:49,samuel.anton.7e7@itb.cat,rgeg,Mitjana (necessita atenció aviat),res<are,Portàtil (Laptotp),ergres,Internet,rregr,hhtre,rgrhh,ergr
+12/11/2025 8:18:01,hector.marti.7e7@itb.cat,fdsffds,Baixa (pot esperar dies),fdsffds,Impressores,fdsffds,Impressora,fdsffds,fdsffds,fdsffds,fdsffds
+12/11/2025 8:18:01,josep.perez.7e7@itb.cat,dwwddw,Baixa (pot esperar dies),dwdwawd,Impressores,wddwawd,Internet,dwwda,wdawda,wawdawa,wadwadwa
+12/11/2025 8:18:14,samuel.anton.7e7@itb.cat,rgees,Alta (impedeix treballar immediatament),fewfee,Ordinador sobretaula (PC),trhre,Compte/contrasenyes,reegwe,rghhjjr,gefredfre,eftded
+12/11/2025 8:18:31,samuel.anton.7e7@itb.cat,eeeeee,Baixa (pot esperar dies),eeeee,Ordinador sobretaula (PC),eeeee,Sistema operatiu no funciona (PC),eeeeet,rerere,rerereer,ererer
+12/11/2025 8:18:50,hector.marti.7e7@itb.cat,fdsffds,Mitjana (necessita atenció aviat),fdsffds,Projector,fdsffds,Component físic no funciona (PC),fdsffds,fdsffds,fdsffds,fdsffds
+12/11/2025 8:18:56,samuel.anton.7e7@itb.cat,rererer,Baixa (pot esperar dies),ewqetert,Impressores,ertrgg,Compte/contrasenyes,retrbfg,grgfhf,hgrhrr,hhrhgrfh
+12/11/2025 8:19:05,josep.perez.7e7@itb.cat,fdfdssd,Alta (impedeix treballar immediatament),ffdsf,Impressores,dffdsdsf,Component físic no funciona (PC),dsffsddfs,dfsdfsfds,sdffds,dfsfds
+12/11/2025 8:19:09,hector.marti.7e7@itb.cat,645654,Baixa (pot esperar dies),645654,Ordinador sobretaula (PC),645654,Compte/contrasenyes,645654,645654,645654,645654
+12/11/2025 8:19:18,walid.koubaa.7e9@itb.cat,effe,Baixa (pot esperar dies),fw,Projector,fwfwf,Projector,2qe,2eq2e,eqwe,ewqew
+12/11/2025 8:19:23,josep.perez.7e7@itb.cat,saddsasda,Mitjana (necessita atenció aviat),fsad,Ordinador sobretaula (PC),sadsadsa,Internet,ddadas,adsadsdsa,sadasdsda,dassaddsa
+12/11/2025 8:19:23,samuel.anton.7e7@itb.cat,dhfhf,Mitjana (necessita atenció aviat),fdghhf,Ordinador sobretaula (PC),hfhfg,Projector,fghfhf,hgfhfhf,fhhffgs,sggdgds
+12/11/2025 8:19:31,hector.marti.7e7@itb.cat,*/-*//&%,Mitjana (necessita atenció aviat),*/-*//&%,Impressores,*/-*//&%,Component físic no funciona (PC),*/-*//&%,*/-*//&%,*/-*//&%,*/-*//&%
+12/11/2025 8:19:35,walid.koubaa.7e9@itb.cat,qewqewq,Baixa (pot esperar dies),qewwe,Portàtil (Laptotp),eqwweq,Compte/contrasenyes,qwwqe,qewq,eqww,ewqweq
+12/11/2025 8:19:45,josep.perez.7e7@itb.cat,ffgdgdgh,Baixa (pot esperar dies),hgfgh,Impressores,ghfgfhghf,Internet,gfhhgfgh,ghfgf,gfhhfghgf,fghfghfg
+12/11/2025 8:19:52,walid.koubaa.7e9@itb.cat,ewqwqe,Mitjana (necessita atenció aviat),ewqewqew,Portàtil (Laptotp),ewqewqewq,Internet,eq,ewqwe,ewqwe,ewwqe
+12/11/2025 8:19:59,samuel.anton.7e7@itb.cat,"*^ÇÑ=O)==)?)=)=)=)/(&/%·$$·""·%¨_;::LMKJIUY/(&/",Baixa (pot esperar dies),w23244,Ordinador sobretaula (PC),wwewrwr,Impressora,rf35345qrf,34555545,423353,535354
+12/11/2025 8:20:00,hector.marti.7e7@itb.cat,*/-*//&%,Mitjana (necessita atenció aviat),GFDGFD,Portàtil (Laptotp),GFDGFD,Internet,GFDGFD,GFDGFD,GFDGFD,GFDGFD
+12/11/2025 8:20:01,josep.perez.7e7@itb.cat,hghgf,Mitjana (necessita atenció aviat),hghgghgh,Ordinador sobretaula (PC),hgfddg,Internet,dfgdfg,dfgdfg,dfgfdg,dfgfdg
+12/11/2025 8:20:10,walid.koubaa.7e9@itb.cat,weqw,Baixa (pot esperar dies),wq,Altres,qew,Internet,wqe,wqe,ewq,eq
+12/11/2025 8:20:22,hector.marti.7e7@itb.cat,+`ç^¨,Mitjana (necessita atenció aviat),+`ç^¨,Portàtil (Laptotp),+`ç^¨,Compte/contrasenyes,+`ç^¨,+`ç^¨,+`ç^¨,+`ç^¨
+12/11/2025 8:20:23,josep.perez.7e7@itb.cat,dfgdfg,Mitjana (necessita atenció aviat),dfgfdgfd,Impressores,dfgfdg,Sistema operatiu no funciona (PC),fgdgfd,fgdgdf,fgddfg,fgdfgdfgdf
+12/11/2025 8:20:26,walid.koubaa.7e9@itb.cat,ewq,Baixa (pot esperar dies),qwe,Ordinador sobretaula (PC),qwe,Sistema operatiu no funciona (PC),wqe,weq,weq,weq
+12/11/2025 8:20:31,samuel.anton.7e7@itb.cat,3545,Baixa (pot esperar dies),446546456,Ordinador sobretaula (PC),4623w3,Projector,56664,rthg4654grf4,4e5435f,e5435
+12/11/2025 8:20:47,walid.koubaa.7e9@itb.cat,ewq,Alta (impedeix treballar immediatament),weq,Ordinador sobretaula (PC),wqewq,Component físic no funciona (PC),qwe,wqe,ewq,ewq
+12/11/2025 8:21:07,samuel.anton.7e7@itb.cat,4343,Mitjana (necessita atenció aviat),et535er,Impressores,3254ef,Internet,gd454445,fdtr45eq,35ef,e435e
+12/11/2025 8:21:34,samuel.anton.7e7@itb.cat,324rerd,Alta (impedeix treballar immediatament),ere43rwe,Ordinador sobretaula (PC),ewr3343,Internet,34rew33,3e345545ttre,eete3,34edre
+12/11/2025 8:21:56,samuel.anton.7e7@itb.cat,er34343,Baixa (pot esperar dies),r4d43e34,Altres,33e43d3d,Compte/contrasenyes,3er34534,fer3435,35e534,345rtd
+12/11/2025 8:22:16,samuel.anton.7e7@itb.cat,3er3r3rrreer,Baixa (pot esperar dies),r345f,Portàtil (Laptotp),er3453,Sistema operatiu no funciona (PC),345err,re534f,ewr34r,r35545r
+12/11/2025 8:22:40,samuel.anton.7e7@itb.cat,3rr34343,Baixa (pot esperar dies),frer343r,Ordinador sobretaula (PC),3rerer3 ,Internet,3rer3434,rew434r3,43ree5r,34rt
+12/11/2025 8:23:07,samuel.anton.7e7@itb.cat,er3r3r3r3r,Alta (impedeix treballar immediatament),rer345,Projector,ewrtt34545fer43,Internet,rtgr453,erere4343,43rwe42,355e42342
+12/11/2025 8:23:29,samuel.anton.7e7@itb.cat,r3435ef,Mitjana (necessita atenció aviat),3546fdferere,Projector,r34rewrer,Impressora,re5t54frerere34,43eret45,45reter34,45544ree3q
+12/11/2025 8:24:40,samuel.anton.7e7@itb.cat,34efe543q,Alta (impedeix treballar immediatament),43rwerwq3455,Impressores,354545e,Compte/contrasenyes,e2312,324sfdd3,te5343r,3143wer
+12/11/2025 8:25:09,samuel.anton.7e7@itb.cat,43432343,Baixa (pot esperar dies),33r32r,Altres,r2w354,Altres,45te,43t4e5345,ert4354t,4tt3425
+12/11/2025 8:25:38,samuel.anton.7e7@itb.cat,t434253,Baixa (pot esperar dies),345252355 45,Projector,32w,Projector,44tr435453243,4tret3w,44tr345t4,325r32r
+12/11/2025 8:37:17,samuel.anton.7e7@itb.cat,23434234,Alta (impedeix treballar immediatament),5425,Ordinador sobretaula (PC),rew343 ,Internet,erwe3,dwwd,dwwd,dwdw

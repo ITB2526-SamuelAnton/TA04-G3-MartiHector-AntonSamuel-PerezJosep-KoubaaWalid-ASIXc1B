@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<root>
-  <row>
+<formulari>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:03:54</Marca_de_temps>
     <Adre_a_electr_nica>javier.amaya@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>javier.amaya@itb.cat</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -13,8 +13,8 @@
     <field_8._Missatge_de_l_error_exactament_>javier.amaya@itb.cat</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>javier.amaya@itb.cat</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>javier.amaya@itb.cat</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:07:34</Marca_de_temps>
     <Adre_a_electr_nica>josue.amador.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Josué Amador</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -27,8 +27,8 @@
     <field_8._Missatge_de_l_error_exactament_>Ubuntu_Error_404</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau Castro</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Poseu Windows i no Ubuntu</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:07:55</Marca_de_temps>
     <Adre_a_electr_nica>javier.amaya@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>no@tinc.cap</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -41,8 +41,8 @@
     <field_8._Missatge_de_l_error_exactament_>no@tinc.cap</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>no@tinc.cap</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>no@tinc.cap</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:08:19</Marca_de_temps>
     <Adre_a_electr_nica>abel.duce.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Abel Duce</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -55,8 +55,8 @@
     <field_8._Missatge_de_l_error_exactament_>Esta la pantalla en negre</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Javi Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:15:08</Marca_de_temps>
     <Adre_a_electr_nica>iker.lopez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Laura Martí Pons</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -69,8 +69,8 @@
     <field_8._Missatge_de_l_error_exactament_>“Boot device not found”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Laura Martí Pons</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Ha intentat reiniciar l’equip sense èxit</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:15:36</Marca_de_temps>
     <Adre_a_electr_nica>marc.jove.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>marc jove</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -83,8 +83,8 @@
     <field_8._Missatge_de_l_error_exactament_>error</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>amaya </field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>no</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:16:01</Marca_de_temps>
     <Adre_a_electr_nica>abel.duce.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Abel Duce</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -97,8 +97,8 @@
     <field_8._Missatge_de_l_error_exactament_>No te conexió</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Javi Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:16:48</Marca_de_temps>
     <Adre_a_electr_nica>iker.lopez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Marc Fernández López</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -111,8 +111,8 @@
     <field_8._Missatge_de_l_error_exactament_>“No Internet, no s’ha detectat xarxa”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Jordi Roca</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>S’ha provat amb altres portàtils i funcionen correctament.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:16:51</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Xavier Castejon</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -125,8 +125,8 @@
     <field_8._Missatge_de_l_error_exactament_>“INACCESSIBLE_BOOT_DEVICE”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Javier Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>S’ha reiniciat diverses vegades però el problema persisteix; es necessita atenció urgent ja que és el PC del docent.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:17:55</Marca_de_temps>
     <Adre_a_electr_nica>noel.florido.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Noel Florido</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -139,8 +139,8 @@
     <field_8._Missatge_de_l_error_exactament_>Error fan1</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>No hi ha</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:18:11</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Jaume Lloveras</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -153,8 +153,8 @@
     <field_8._Missatge_de_l_error_exactament_>No apareix cap missatge d’error, només es veu la imatge distorsionada.</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Iker Lopez</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Possiblement la làmpada estigui arribant al final de la seva vida útil.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:18:14</Marca_de_temps>
     <Adre_a_electr_nica>abel.duce.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Linares Castro Marc</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -167,8 +167,8 @@
     <field_8._Missatge_de_l_error_exactament_>No encen</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:18:21</Marca_de_temps>
     <Adre_a_electr_nica>iker.lopez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Mireia Garcia Torres</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -181,8 +181,8 @@
     <field_8._Missatge_de_l_error_exactament_>“Paper jam / Error de xarxa”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>No aplicable</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Necessari revisar connexió i toner.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:19:58</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Ramiro</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -195,8 +195,8 @@
     <field_8._Missatge_de_l_error_exactament_>No mostra cap error, però la qualitat és deficient.</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Es podria necessitar una neteja de capçals o canvi de cartutxos; no és urgent però afecta els treballs dels alumnes.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:20:15</Marca_de_temps>
     <Adre_a_electr_nica>iker.lopez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Pau Morales Riera</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -209,8 +209,8 @@
     <field_8._Missatge_de_l_error_exactament_>no se</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Anna Soler</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>S’ha comprovat el cable de xarxa i reiniciat l’equip sense èxit.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:20:26</Marca_de_temps>
     <Adre_a_electr_nica>abel.duce.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Abel Duce</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -223,8 +223,8 @@
     <field_8._Missatge_de_l_error_exactament_>Sobrecalfament </field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:21:18</Marca_de_temps>
     <Adre_a_electr_nica>iker.lopez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Clàudia Rodríguez Serra</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -237,8 +237,8 @@
     <field_8._Missatge_de_l_error_exactament_>“Kernel panic – system halted”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Xavier Puig</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>S’ha netejat ventilador i revisat connexions de maquinari.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:21:21</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Laura Costa</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -251,8 +251,8 @@
     <field_8._Missatge_de_l_error_exactament_>“La contrasenya introduïda és incorrecta. Torna-ho a intentar.”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Leo Messi</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Sospita que el compte s’ha desconnectat del domini; necessita recuperar accés abans de la propera classe.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:22:35</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Cristiano</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -265,8 +265,8 @@
     <field_8._Missatge_de_l_error_exactament_>“Dispositiu USB no reconegut”</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Clara Gómez</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Els ports posteriors funcionen correctament; podria ser un problema del connector intern o de la placa base.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:23:30</Marca_de_temps>
     <Adre_a_electr_nica>cristian.ojeda.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Fernando Alonso</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -279,8 +279,8 @@
     <field_8._Missatge_de_l_error_exactament_>No funciona como debe</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Franco</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>com</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:24:02</Marca_de_temps>
     <Adre_a_electr_nica>cristian.ojeda.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Iago pete</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -293,8 +293,8 @@
     <field_8._Missatge_de_l_error_exactament_>No funciona como debe</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Lolito</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>wwww</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:24:32</Marca_de_temps>
     <Adre_a_electr_nica>cristian.ojeda.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Mussolini</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -307,8 +307,8 @@
     <field_8._Missatge_de_l_error_exactament_>No funciona como debe</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Pepe</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>a</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:24:40</Marca_de_temps>
     <Adre_a_electr_nica>marc.jove.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>pedro sanchez</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -321,8 +321,8 @@
     <field_8._Missatge_de_l_error_exactament_>fuck off</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>francisco franco</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:30:07</Marca_de_temps>
     <Adre_a_electr_nica>javier.amaya@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>a</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -587,8 +587,8 @@ Avui, si algú al departament troba una anomalia, el primer que pregunta és:
 I sovint, la resposta és un somriure i una línia al registre:
 
 “Sí. El BITXO encara és entre nosaltres.”</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:31:47</Marca_de_temps>
     <Adre_a_electr_nica>jaume.lloveras.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Pol Ferrer</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -601,8 +601,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>AAAAAAAA</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Roger Roger</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Los tornillos supongo</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:32:36</Marca_de_temps>
     <Adre_a_electr_nica>alex.capitan.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>alex capitán</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -615,8 +615,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>pantalla azul</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:33:54</Marca_de_temps>
     <Adre_a_electr_nica>jaume.lloveras.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Anna Puig</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -629,8 +629,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Cap missatge visible; només un cursor parpellejant.</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Javier Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Es necessita accés urgent per poder imprimir els certificats d’assistència.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:35:24</Marca_de_temps>
     <Adre_a_electr_nica>adrian.flecha.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Marc Márquez</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -643,8 +643,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Jodete Valentino Rossi</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marco Bezzecchi</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Ya tengo 7 campeonatos de Moto GP cabrones 💪 ( ͡▀̿ ̿ 👅 ͡▀̿ ̿ ) 👊</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:37:00</Marca_de_temps>
     <Adre_a_electr_nica>jaume.lloveras.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Laura Bosch</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -657,8 +657,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>No troba la red directament</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>En intentar començar la clase ningu es podía connectar</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:37:24</Marca_de_temps>
     <Adre_a_electr_nica>marc.castro.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Claudia Pina em menja la tita</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -671,8 +671,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Imatge not found</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Hansi Flick</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Estoy Caliente, Josep dameeeeee</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:37:34</Marca_de_temps>
     <Adre_a_electr_nica>alex.capitan.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>amador rivas</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -685,8 +685,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>ay mi cuqui</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>no se</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:39:20</Marca_de_temps>
     <Adre_a_electr_nica>ramiro.cori.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Ramiro Cori</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -699,8 +699,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Quan l'ordinador encén fa soroll</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Pot ser per menjar a classe</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:39:27</Marca_de_temps>
     <Adre_a_electr_nica>noel.florido.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Marc Aribau</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -713,8 +713,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Error 404</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Yo</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__/>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:39:46</Marca_de_temps>
     <Adre_a_electr_nica>jaume.lloveras.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Roger Llop</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -727,8 +727,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Taca de tinta </field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Cap</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Els alumnes esperen els justificants i tenim corregudes de tinta nomes</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:40:17</Marca_de_temps>
     <Adre_a_electr_nica>caio.ganais.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Caio Ganais</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -741,8 +741,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Friedrich Wilhelm Nietzsche it is attacking the system. Long live Nihilism.</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Javier Amaya</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Nuse</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:41:08</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>jqsaosdsda</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -755,8 +755,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>dwqwdqdwq</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>dwqwqw</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>wddwdw</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:41:20</Marca_de_temps>
     <Adre_a_electr_nica>ramiro.cori.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Cristian Ojeda</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -769,8 +769,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>:C</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>:C</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>AYUDAAAAAAAAAAAA!</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:41:28</Marca_de_temps>
     <Adre_a_electr_nica>jaume.lloveras.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Marçal Duran</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -783,8 +783,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>No me deja entrar ni cambiar de contra</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Maria Jose</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Crec que un company de clkase sha pasat de gracios</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:41:30</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>wdwdwad</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -797,8 +797,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>waddwwd</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wwdwd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwwd</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:41:49</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>adwdwawadwae</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -811,8 +811,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>dwadwadwa</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wdawdawda</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwawdadwa</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:42:12</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>wawdwa</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -825,8 +825,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>adwwadwda</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wadwaw</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwadwdw</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:42:32</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dwwddwwwda</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -839,8 +839,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>dwwawda</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>dwadwadwadwa</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwadwawdawad</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:43:18</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>wwdwwaw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -853,8 +853,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>5434354</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>54453543</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>453435543</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:43:33</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Marc Aribau</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -867,8 +867,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>Marc Aribau</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Aribau</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Marc Aribau</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:43:36</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>5465434355</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -881,8 +881,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>543543435</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>5342543435</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>534534543</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:44:41</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dasdwadw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -895,8 +895,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>dsdsadsa</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>fsddfsfgd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>gfdggh</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:46:23</Marca_de_temps>
     <Adre_a_electr_nica>josue.amador.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Si</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -909,8 +909,8 @@ I sovint, la resposta és un somriure i una línia al registre:
     <field_8._Missatge_de_l_error_exactament_>No hay</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Collantes</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Si</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:48:15</Marca_de_temps>
     <Adre_a_electr_nica>john.garcia.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Javier AMAYA</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -1067,8 +1067,8 @@ Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”
 
 El BITXO com a metàfora
 </field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:48:32</Marca_de_temps>
     <Adre_a_electr_nica>josue.amador.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Kratos</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -1081,8 +1081,8 @@ El BITXO com a metàfora
     <field_8._Missatge_de_l_error_exactament_>YO QUE SE</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>CALVINHO</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>si</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:48:36</Marca_de_temps>
     <Adre_a_electr_nica>marc.jove.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>c</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -1287,8 +1287,8 @@ Alguns fragments trobats al registre mostraven una mena de “diari del BITXO”
 
 El BITXO com a metàfora
 </field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:49:50</Marca_de_temps>
     <Adre_a_electr_nica>javier.amaya@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>1</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -1380,8 +1380,8 @@ https://manytools.org/hacker-tools/convert-images-to-ascii-art/</field_7._Explic
     <field_8._Missatge_de_l_error_exactament_>1</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>1</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>1</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:49:56</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -1394,8 +1394,8 @@ https://manytools.org/hacker-tools/convert-images-to-ascii-art/</field_7._Explic
     <field_8._Missatge_de_l_error_exactament_>https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>https://docs.google.com/forms/d/e/1FAIpQLSde1Gxog1LHbegA5lzJ70b53L1Xw65k-dukxDn6xr8UgUp72Q/viewform</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:50:04</Marca_de_temps>
     <Adre_a_electr_nica>adrian.flecha.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>En un pueblito random de La Mancha, bro, del que no me acuerdo el nombre (porque literal, ¿quién se acuerda de esos nombres?), vivía hace no mucho un señor que estaba en plan main character vibes, rollo gamer de los libros antiguos y fan total de los caballeros andantes. El pibe tenía una lanza medio oxidada por ahí, un escudo que daba pena, un caballo que ya no estaba para trotes, y un perro flaco que ni el pobre Snoopy.
@@ -1613,8 +1613,8 @@ Y el posadero:
 —Bro… sí, claro, pásale, pero pagas primero, ¿no?
 
 Y así empezó la mayor locura literaria de la historia, full powered by imaginación y cero sentido común.</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:51:15</Marca_de_temps>
     <Adre_a_electr_nica>noel.florido.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>🔷 ¿Qué es el modelo Chen?
@@ -1992,8 +1992,8 @@ Un departamento puede tener muchos empleados,
 pero un empleado pertenece solo a un departamento (1:N).
 
 🔶 Ejemplo visual simple</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:51:53</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>・ ∧＿_(＿○￣) ∴ ・ ‌
@@ -2031,8 +2031,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     　乂ﾞ＿＿＿ﾞメ・　∴・
     ∴ ⊂/　 ∞ 　(⊃・∴　∴
     ☆ （⌒)―(⌒)⠀</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>10/11/2025 9:53:44</Marca_de_temps>
     <Adre_a_electr_nica>roger.lesti.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀
@@ -2110,8 +2110,8 @@ pero un empleado pertenece solo a un departamento (1:N).
 ⠀⠀⣰⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧
 ⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧
 ⣸⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣇</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:05:58</Marca_de_temps>
     <Adre_a_electr_nica>jesus.palma.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>ñ-kjhññho</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2124,8 +2124,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>hlkñh</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>hlñkñ</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>hñlhlk</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:04</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Marc Linares</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2138,8 +2138,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>Marc Linares</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Marc Linares</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Marc Linares</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:11</Marca_de_temps>
     <Adre_a_electr_nica>adrian.flecha.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Adrián Flecha</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2152,8 +2152,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>Nada, solo se apaga</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>Maria Jose Cordoba</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>Creo que lo apaga con veyon la profe, no le gustaran los videos que veo, supongo</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:17</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>Jo</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2166,8 +2166,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>dw</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>dw</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dw</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:24</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>wwwdwawadwa</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2180,8 +2180,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wdadwadwaedwa</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wadweawdwdadwa</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwawdawdawwda</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:35</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2194,8 +2194,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wdwdw</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wdwdwd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>wdwdwd</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:54</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>sddfdfdfd</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2208,8 +2208,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>sddfdfdfd</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>sddfdfdfd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>sddfdfdfd</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:14:57</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dwdwdw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2222,8 +2222,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>qfww</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wfqf</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>qfwfw</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:15:11</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>sddfdfdfd</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2236,8 +2236,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>sddfdfdfd</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>sddfdfdfd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>sddfdfdfd</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:15:22</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>fwqfqf</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2250,8 +2250,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wregrf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wfrwr</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>fwrwr</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:15:31</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>wrewrer</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2264,8 +2264,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wrewrer</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wrewrer</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>wrewrer</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:15:50</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>fwwqfw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2278,8 +2278,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rrgwqf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>fwqffgg</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>fwqrw</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:16:04</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>lkjlkjpo</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2292,8 +2292,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>lkjlkjpo</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>lkjlkjpo</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>lkjlkjpo</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:16:15</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>jhytyj</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2306,8 +2306,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rhytae&lt;</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>trehedd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>erhre</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:16:21</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>lkjlkjpo</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2320,8 +2320,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>lkjlkjpo</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>lkjlkjpo</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>lkjlkjpo</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:16:36</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>lkjlkjpo</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2334,8 +2334,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>lkjlkjpo</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>lkjlkjpo</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>lkjlkjpo</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:16:38</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>erherhx</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2348,8 +2348,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>erhrf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>rfhfb</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>rfhe</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:17:04</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>rehbefrfd</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2362,8 +2362,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rhrh</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>rrhgr</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>rrsd</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:17:26</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>wwdawdwd</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2376,8 +2376,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>dwadwadwadwa</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wadwdwa</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwadwawda</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:17:46</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dwawadwad</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2390,8 +2390,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wawadwda</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>waddaw</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwadwa</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:17:49</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>rgeg</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2404,8 +2404,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>hhtre</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>rgrhh</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>ergr</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:18:01</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>fdsffds</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2418,8 +2418,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>fdsffds</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>fdsffds</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>fdsffds</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:18:01</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dwwddw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2432,8 +2432,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wdawda</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>wawdawa</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>wadwadwa</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:18:14</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>rgees</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2446,8 +2446,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rghhjjr</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>gefredfre</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>eftded</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:18:31</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>eeeeee</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2460,8 +2460,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rerere</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>rerereer</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>ererer</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:18:50</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>fdsffds</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2474,8 +2474,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>fdsffds</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>fdsffds</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>fdsffds</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:18:56</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>rererer</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2488,8 +2488,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>grgfhf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>hgrhrr</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>hhrhgrfh</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:05</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>fdfdssd</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2502,8 +2502,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>dfsdfsfds</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>sdffds</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dfsfds</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:09</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>645654</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2516,8 +2516,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>645654</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>645654</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>645654</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:18</Marca_de_temps>
     <Adre_a_electr_nica>walid.koubaa.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>effe</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2530,8 +2530,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>2eq2e</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>eqwe</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>ewqew</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:23</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>saddsasda</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2544,8 +2544,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>adsadsdsa</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>sadasdsda</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dassaddsa</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:23</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dhfhf</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2558,8 +2558,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>hgfhfhf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>fhhffgs</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>sggdgds</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:31</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>*/-*//&amp;%</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2572,8 +2572,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>*/-*//&amp;%</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>*/-*//&amp;%</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>*/-*//&amp;%</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:35</Marca_de_temps>
     <Adre_a_electr_nica>walid.koubaa.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>qewqewq</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2586,8 +2586,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>qewq</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>eqww</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>ewqweq</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:45</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>ffgdgdgh</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2600,8 +2600,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>ghfgf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>gfhhfghgf</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>fghfghfg</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:52</Marca_de_temps>
     <Adre_a_electr_nica>walid.koubaa.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>ewqwqe</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2614,8 +2614,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>ewqwe</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>ewqwe</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>ewwqe</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:19:59</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>*^ÇÑ=O)==)?)=)=)=)/(&amp;/%·$$·&quot;·%¨_;::LMKJIUY/(&amp;/</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2628,8 +2628,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>34555545</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>423353</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>535354</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:00</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>*/-*//&amp;%</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2642,8 +2642,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>GFDGFD</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>GFDGFD</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>GFDGFD</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:01</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>hghgf</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2656,8 +2656,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>dfgdfg</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>dfgfdg</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dfgfdg</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:10</Marca_de_temps>
     <Adre_a_electr_nica>walid.koubaa.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>weqw</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2670,8 +2670,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wqe</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>ewq</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>eq</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:22</Marca_de_temps>
     <Adre_a_electr_nica>hector.marti.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>+`ç^¨</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2684,8 +2684,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>+`ç^¨</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>+`ç^¨</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>+`ç^¨</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:23</Marca_de_temps>
     <Adre_a_electr_nica>josep.perez.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>dfgdfg</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2698,8 +2698,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>fgdgdf</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>fgddfg</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>fgdfgdfgdf</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:26</Marca_de_temps>
     <Adre_a_electr_nica>walid.koubaa.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>ewq</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2712,8 +2712,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>weq</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>weq</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>weq</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:31</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>3545</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2726,8 +2726,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rthg4654grf4</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>4e5435f</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>e5435</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:20:47</Marca_de_temps>
     <Adre_a_electr_nica>walid.koubaa.7e9@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>ewq</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2740,8 +2740,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>wqe</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>ewq</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>ewq</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:21:07</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>4343</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2754,8 +2754,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>fdtr45eq</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>35ef</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>e435e</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:21:34</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>324rerd</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2768,8 +2768,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>3e345545ttre</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>eete3</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>34edre</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:21:56</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>er34343</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2782,8 +2782,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>fer3435</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>35e534</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>345rtd</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:22:16</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>3er3r3rrreer</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2796,8 +2796,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>re534f</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>ewr34r</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>r35545r</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:22:40</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>3rr34343</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2810,8 +2810,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>rew434r3</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>43ree5r</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>34rt</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:23:07</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>er3r3r3r3r</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2824,8 +2824,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>erere4343</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>43rwe42</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>355e42342</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:23:29</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>r3435ef</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2838,8 +2838,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>43eret45</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>45reter34</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>45544ree3q</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:24:40</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>34efe543q</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2852,8 +2852,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>324sfdd3</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>te5343r</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>3143wer</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:25:09</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>43432343</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2866,8 +2866,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>43t4e5345</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>ert4354t</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>4tt3425</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:25:38</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>t434253</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2880,8 +2880,8 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>4tret3w</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>44tr345t4</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>325r32r</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-  <row>
+  </resposta>
+  <resposta>
     <Marca_de_temps>12/11/2025 8:37:17</Marca_de_temps>
     <Adre_a_electr_nica>samuel.anton.7e7@itb.cat</Adre_a_electr_nica>
     <field_1._Nom_i_cognom_professor_alumne_que_informa>23434234</field_1._Nom_i_cognom_professor_alumne_que_informa>
@@ -2894,5 +2894,5 @@ pero un empleado pertenece solo a un departamento (1:N).
     <field_8._Missatge_de_l_error_exactament_>dwwd</field_8._Missatge_de_l_error_exactament_>
     <field_9._Professor_s_responsable_a_l_aula>dwwd</field_9._Professor_s_responsable_a_l_aula>
     <field_10._Altres_observacions__Perqu___com__etc...__>dwdw</field_10._Altres_observacions__Perqu___com__etc...__>
-  </row>
-</root>
+  </resposta>
+</formulari>

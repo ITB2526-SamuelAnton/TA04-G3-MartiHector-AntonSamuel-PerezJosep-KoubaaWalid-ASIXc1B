@@ -16,7 +16,7 @@ def _sanitize_tag(tag):
         tag = 'field_' + tag
     return tag
 
-def csv_to_xml(csv_file_path, xml_file_path, root_element_name='root', row_element_name='row'):
+def csv_to_xml(csv_file_path, xml_file_path, root_element_name='formulari', row_element_name='resposta'):
     root = ET.Element(root_element_name)
     try:
         with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:

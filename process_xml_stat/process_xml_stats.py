@@ -20,22 +20,32 @@ class Colors:
 
 def formatar_color_numero(numero):
     """Retorna el número com a string amb color: verd si > 0, vermell si == 0."""
-    if numero > 0:
-        return f"{Colors.OKGREEN}{numero}{Colors.ENDC}"
-    else:
-        return f"{Colors.FAIL}{numero}{Colors.ENDC}"
+    try:
+        if numero > 0:
+            return f"{Colors.OKGREEN}{numero}{Colors.ENDC}"
+        else:
+            return f"{Colors.FAIL}{numero}{Colors.ENDC}"
+    except (TypeError, ValueError) as e:
+        # En cas que numero no sigui un enter vàlid
+        print(f"{Colors.WARNING}Avís: Error en formatar el número '{numero}': {e}. Retornant sense color.{Colors.ENDC}")
+        return str(numero)
 
 
 def color_urgencia(text_urgencia):
     """Retorna el text de la urgència amb un color associat."""
-    if text_urgencia.startswith("Alta"):
-        return f"{Colors.FAIL}{text_urgencia}{Colors.ENDC}"
-    elif text_urgencia.startswith("Mitjana"):
-        return f"{Colors.WARNING}{text_urgencia}{Colors.ENDC}"
-    elif text_urgencia.startswith("Baixa"):
-        return f"{Colors.OKGREEN}{text_urgencia}{Colors.ENDC}"
-    else:
-        return text_urgencia
+    try:
+        if text_urgencia.startswith("Alta"):
+            return f"{Colors.FAIL}{text_urgencia}{Colors.ENDC}"
+        elif text_urgencia.startswith("Mitjana"):
+            return f"{Colors.WARNING}{text_urgencia}{Colors.ENDC}"
+        elif text_urgencia.startswith("Baixa"):
+            return f"{Colors.OKGREEN}{text_urgencia}{Colors.ENDC}"
+        else:
+            return text_urgencia
+    except AttributeError as e:
+        # En cas que text_urgencia no sigui una string
+        print(f"{Colors.WARNING}Avís: Error en colorir la urgència '{text_urgencia}': {e}. Retornant sense color.{Colors.ENDC}")
+        return str(text_urgencia)
 
 
 def get_text_or_na(element, tag_name):
@@ -43,10 +53,14 @@ def get_text_or_na(element, tag_name):
     Funció segura per obtenir el text d'un sub-element.
     Retorna 'N/A' si l'etiqueta no es troba o està buida.
     """
-    node = element.find(tag_name)
-    if node is not None and node.text is not None:
-        return node.text.strip()
-    return "N/A"
+    try:
+        node = element.find(tag_name)
+        if node is not None and node.text is not None:
+            return node.text.strip()
+        return "N/A"
+    except Exception as e:
+        print(f"{Colors.WARNING}Avís: Error en obtenir el text de '{tag_name}': {e}. Retornant 'N/A'.{Colors.ENDC}")
+        return "N/A"
 
 
 def processar_incidencies(fitxer_xml):
@@ -54,6 +68,12 @@ def processar_incidencies(fitxer_xml):
     Llegeix un fitxer XML de respostes de formulari (incidències),
     processa la informació i la mostra per consola amb format i colors.
     """
+    # Verificació inicial: Comprovar si el fitxer existeix
+    if not os.path.isfile(fitxer_xml):
+        print(f"{Colors.FAIL}Error: No s'ha trobat el fitxer '{fitxer_xml}'.{Colors.ENDC}")
+        print("Si us plau, assegura't que el fitxer és a la ruta correcta.")
+        return
+
     try:
         arbre = ET.parse(fitxer_xml)
         arrel = arbre.getroot()
@@ -61,9 +81,16 @@ def processar_incidencies(fitxer_xml):
         print(f"{Colors.FAIL}Error: No s'ha trobat el fitxer '{fitxer_xml}'.{Colors.ENDC}")
         print("Si us plau, assegura't que el fitxer és a la ruta correcta.")
         return
-    except ET.ParseError:
-        print(f"{Colors.FAIL}Error: El fitxer '{fitxer_xml}' no és un XML vàlid.{Colors.ENDC}")
+    except ET.ParseError as e:
+        print(f"{Colors.FAIL}Error: El fitxer '{fitxer_xml}' no és un XML vàlid. Detalls: {e}{Colors.ENDC}")
         return
+    except Exception as e:
+        print(f"{Colors.FAIL}Error inesperat en carregar el fitxer XML: {e}{Colors.ENDC}")
+        return
+
+    # Verificació: Comprovar si l'arrel té el tag esperat (opcional, però millora robustesa)
+    if arrel.tag != 'formulari':
+        print(f"{Colors.WARNING}Avís: L'arrel del XML no és 'formulari' (és '{arrel.tag}'). Procedint igualment.{Colors.ENDC}")
 
     # --- Variables per al resum ---
     total_respostes = 0
@@ -103,12 +130,16 @@ def processar_incidencies(fitxer_xml):
 
         except Exception as e:
             # Captura errors inesperats durant el processament d'una resposta
-            print(f"{Colors.WARNING}Avís: No s'ha pogut processar una resposta. Error: {e}{Colors.ENDC}")
+            print(f"{Colors.WARNING}Avís: No s'ha pogut processar una resposta (número {total_respostes}). Error: {e}. Continuant amb la següent.{Colors.ENDC}")
+            total_respostes -= 1  # Corregim el comptador si falla
 
     # --- Un cop processades totes les respostes, mostrem els resultats ---
 
-    # 1. Netejar la consola (opcional, per a una millor presentació)
-    os.system('cls' if os.name == 'nt' else 'clear')
+    # 1. Netejar la consola (opcional, per a una millor presentació) - Ara amb try-except
+    try:
+        os.system('cls' if os.name == 'nt' else 'clear')
+    except Exception as e:
+        print(f"{Colors.WARNING}Avís: No s'ha pogut netejar la consola. Error: {e}. Continuant.{Colors.ENDC}")
 
     # 2. Mostrar el Resum General (Aquest bloc es queda igual)
     print(f"{Colors.BOLD}{Colors.OKBLUE}--- RESUM D'INCIDÈNCIES REBUDES ---{Colors.ENDC}")
@@ -135,19 +166,24 @@ def processar_incidencies(fitxer_xml):
 
     # Imprimim cada incidència com una "fitxa"
     for i, incidencia in enumerate(llista_incidencies):
-        print(f"\n{Colors.UNDERLINE}Incidència #{i + 1}{Colors.ENDC}")
-        print(f"  {Colors.OKCYAN}Data:{Colors.ENDC}         {incidencia['timestamp']}")
-        print(f"  {Colors.OKCYAN}Reportat per:{Colors.ENDC} {incidencia['qui']} ({incidencia['email']})")
-        print(f"  {Colors.OKCYAN}Professor/a:{Colors.ENDC}  {incidencia['profe']}")
-        print(f"  {Colors.OKCYAN}Urgència:{Colors.ENDC}     {color_urgencia(incidencia['urgencia'])}")
-        print(f"  {Colors.OKCYAN}Aula:{Colors.ENDC}         {incidencia['aula']}")
-        print(
-            f"  {Colors.OKCYAN}Dispositiu:{Colors.ENDC}   {incidencia['tipus_dispositiu']} (Codi: {incidencia['codi_dispositiu']})")
-        print(f"  {Colors.OKCYAN}Tipus:{Colors.ENDC}        {incidencia['tipus_incidencia']}")
-        print(f"  {Colors.OKCYAN}Descripció:{Colors.ENDC}   {incidencia['desc']}")
-        print(f"  {Colors.OKCYAN}Missatge error:{Colors.ENDC} {incidencia['error']}")
-        print(f"  {Colors.OKCYAN}Observacions:{Colors.ENDC}  {incidencia['obs']}")
-        print("-" * 40)
+        try:
+            print(f"\n{Colors.UNDERLINE}Incidència #{i + 1}{Colors.ENDC}")
+            print(f"  {Colors.OKCYAN}Data:{Colors.ENDC}         {incidencia['timestamp']}")
+            print(f"  {Colors.OKCYAN}Reportat per:{Colors.ENDC} {incidencia['qui']} ({incidencia['email']})")
+            print(f"  {Colors.OKCYAN}Professor/a:{Colors.ENDC}  {incidencia['profe']}")
+            print(f"  {Colors.OKCYAN}Urgència:{Colors.ENDC}     {color_urgencia(incidencia['urgencia'])}")
+            print(f"  {Colors.OKCYAN}Aula:{Colors.ENDC}         {incidencia['aula']}")
+            print(
+                f"  {Colors.OKCYAN}Dispositiu:{Colors.ENDC}   {incidencia['tipus_dispositiu']} (Codi: {incidencia['codi_dispositiu']})")
+            print(f"  {Colors.OKCYAN}Tipus:{Colors.ENDC}        {incidencia['tipus_incidencia']}")
+            print(f"  {Colors.OKCYAN}Descripció:{Colors.ENDC}   {incidencia['desc']}")
+            print(f"  {Colors.OKCYAN}Missatge error:{Colors.ENDC} {incidencia['error']}")
+            print(f"  {Colors.OKCYAN}Observacions:{Colors.ENDC}  {incidencia['obs']}")
+            print("-" * 40)
+        except KeyError as e:
+            print(f"{Colors.WARNING}Avís: Falta una clau en la incidència #{i + 1}: {e}. Saltant aquesta incidència.{Colors.ENDC}")
+        except Exception as e:
+            print(f"{Colors.WARNING}Avís: Error en mostrar la incidència #{i + 1}: {e}. Continuant.{Colors.ENDC}")
 
     print(f"\n{Colors.OKCYAN}Processament finalitzat.{Colors.ENDC}")
 

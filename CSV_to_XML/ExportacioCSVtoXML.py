@@ -5,7 +5,7 @@ import json
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from xml.sax.saxutils import escape  # Para escapar entidades XML
-
+hola
 INPUT_DIR = 'CSV'
 OUTPUT_DIR = 'XML'
 JSON_OUTPUT = '../Dades_a_Json/Incidencies.json'

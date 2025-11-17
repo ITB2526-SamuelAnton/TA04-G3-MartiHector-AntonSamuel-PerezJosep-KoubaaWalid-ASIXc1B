@@ -1,0 +1,29 @@
+Index: CSV_to_XML/ExportacioCSVtoXML.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import csv\nimport os\nimport re\nimport json\nimport xml.etree.ElementTree as ET\nfrom xml.dom import minidom\nfrom xml.sax.saxutils import escape  # Para escapar entidades XML\n\nINPUT_DIR = 'CSV'\nOUTPUT_DIR = 'XML'\nJSON_OUTPUT = '../Dades_a_Json/Incidencies.json'\n\n\ndef _sanitize_tag(tag):\n    if tag is None or tag == '':\n        return 'field'\n    tag = re.sub(r'\\s+', '_', str(tag))\n    tag = re.sub(r'[^A-Za-z0-9_\\-\\.]', '_', tag)\n    if re.match(r'^[^A-Za-z_]', tag):\n        tag = 'field_' + tag\n    return tag\n\n\ndef _normalize_key_for_json(key):\n    if key is None:\n        return 'field'\n    # Accept apostrophes: replace l_ with l'\n    key = key.replace('l_', \"l'\")\n    # Keep original accents and other chars; strip surrounding whitespace\n    return key.strip()\n\n\ndef read_csv_rows(csv_file_path):\n    rows = []\n    with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:\n        reader = csv.DictReader(csvfile)\n        for row in reader:\n            normalized = {}\n            for k, v in row.items():\n                nk = _normalize_key_for_json(k)\n                normalized[nk] = None if v is None else v\n            rows.append(normalized)\n    return rows\n\n\ndef csv_to_xml(csv_file_path, xml_file_path, root_element_name='root', row_element_name='row'):\n    root = ET.Element(root_element_name)\n    try:\n        with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:\n            reader = csv.DictReader(csvfile)\n            for row in reader:\n                row_el = ET.SubElement(root, row_element_name)\n                for key, value in row.items():\n                    tag = _sanitize_tag(key)\n                    child = ET.SubElement(row_el, tag)\n                    child.text = '' if value is None else escape(str(value))\n\n        rough = ET.tostring(root, 'utf-8')\n        pretty = minidom.parseString(rough).toprettyxml(indent=\"  \", encoding='utf-8')\n        os.makedirs(os.path.dirname(xml_file_path) or '.', exist_ok=True)\n        with open(xml_file_path, 'wb') as f:\n            f.write(pretty)\n    except Exception as e:\n        print(f\"Error convirtiendo `{csv_file_path}`: {e}\")\n\n\ndef write_combined_json(rows, json_path=JSON_OUTPUT):\n    os.makedirs(os.path.dirname(json_path) or '.', exist_ok=True)\n    try:\n        with open(json_path, 'w', encoding='utf-8') as f:\n            json.dump(rows, f, ensure_ascii=False, indent=2)\n    except Exception as e:\n        print(f\"Error escribiendo `{json_path}`: {e}\")\n\n\ndef batch_convert_csv_to_xml(input_dir=INPUT_DIR, output_dir=OUTPUT_DIR, json_output=JSON_OUTPUT):\n    if not os.path.exists(input_dir):\n        print(f\"El directorio de entrada `{input_dir}` no existe.\")\n        return\n    os.makedirs(output_dir, exist_ok=True)\n    converted_count = 0\n    all_rows = []\n    for filename in os.listdir(input_dir):\n        if filename.lower().endswith('.csv'):\n            csv_path = os.path.join(input_dir, filename)\n            xml_filename = os.path.splitext(filename)[0] + '.xml'\n            xml_path = os.path.join(output_dir, xml_filename)\n            csv_to_xml(csv_path, xml_path)\n            # Leer filas para JSON (normaliza claves para aceptar l')\n            try:\n                rows = read_csv_rows(csv_path)\n                all_rows.extend(rows)\n            except Exception as e:\n                print(f\"Error leyendo `{csv_path}` para JSON: {e}\")\n            print(f\"Convertido `{csv_path}` -> `{xml_path}`\")\n            converted_count += 1\n\n    # Escribir JSON combinado\n    write_combined_json(all_rows, json_output)\n    print(f\"Conversión completada. Archivos procesados: {converted_count}. JSON escrito en `{json_output}`\")\n\n\nif __name__ == '__main__':\n    batch_convert_csv_to_xml()\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/CSV_to_XML/ExportacioCSVtoXML.py b/CSV_to_XML/ExportacioCSVtoXML.py
+--- a/CSV_to_XML/ExportacioCSVtoXML.py	(revision 92727bc18707b59ff4addd3bb2d652aa2c041099)
++++ b/CSV_to_XML/ExportacioCSVtoXML.py	(date 1763364926469)
+@@ -4,7 +4,8 @@
+ import json
+ import xml.etree.ElementTree as ET
+ from xml.dom import minidom
+-from xml.sax.saxutils import escape  # Para escapar entidades XML
++from xml.sax.saxutils import escape
++
+ 
+ INPUT_DIR = 'CSV'
+ OUTPUT_DIR = 'XML'
+@@ -75,7 +76,7 @@
+ 
+ def batch_convert_csv_to_xml(input_dir=INPUT_DIR, output_dir=OUTPUT_DIR, json_output=JSON_OUTPUT):
+     if not os.path.exists(input_dir):
+-        print(f"El directorio de entrada `{input_dir}` no existe.")
++        print(f"El directorio de entrada `{input_dir}` no existeix.")
+         return
+     os.makedirs(output_dir, exist_ok=True)
+     converted_count = 0

@@ -12,40 +12,57 @@ JSON_OUTPUT = '../Dades_a_Json/Incidencies.json'
 
 
 def _sanitize_tag(tag):
-    if tag is None or tag == '':
+    try:
+        if tag is None or tag == '':
+            return 'field'
+        tag = re.sub(r'\s+', '_', str(tag))
+        tag = re.sub(r'[^A-Za-z0-9_\-\.]', '_', tag)
+        if re.match(r'^[^A-Za-z_]', tag):
+            tag = 'field_' + tag
+        return tag
+    except Exception as e:
+        print(f"Error sanitizando tag '{tag}': {e}. Usando 'field' por defecto.")
         return 'field'
-    tag = re.sub(r'\s+', '_', str(tag))
-    tag = re.sub(r'[^A-Za-z0-9_\-\.]', '_', tag)
-    if re.match(r'^[^A-Za-z_]', tag):
-        tag = 'field_' + tag
-    return tag
 
 
 def _normalize_key_for_json(key):
-    if key is None:
+    try:
+        if key is None:
+            return 'field'
+        # Accept apostrophes: replace l_ with l'
+        key = key.replace('l_', "l'")
+        # Keep original accents and other chars; strip surrounding whitespace
+        return key.strip()
+    except Exception as e:
+        print(f"Error normalizando clave '{key}': {e}. Usando 'field' por defecto.")
         return 'field'
-    # Accept apostrophes: replace l_ with l'
-    key = key.replace('l_', "l'")
-    # Keep original accents and other chars; strip surrounding whitespace
-    return key.strip()
 
 
 def read_csv_rows(csv_file_path):
     rows = []
-    with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            normalized = {}
-            for k, v in row.items():
-                nk = _normalize_key_for_json(k)
-                normalized[nk] = None if v is None else v
-            rows.append(normalized)
+    try:
+        with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                normalized = {}
+                for k, v in row.items():
+                    nk = _normalize_key_for_json(k)
+                    normalized[nk] = None if v is None else v
+                rows.append(normalized)
+    except FileNotFoundError:
+        print(f"Error: No se encontró el archivo '{csv_file_path}'.")
+    except UnicodeDecodeError as e:
+        print(f"Error de codificación en '{csv_file_path}': {e}. Intenta con otra codificación.")
+    except csv.Error as e:
+        print(f"Error leyendo CSV '{csv_file_path}': {e}.")
+    except Exception as e:
+        print(f"Error inesperado leyendo '{csv_file_path}': {e}.")
     return rows
 
 
 def csv_to_xml(csv_file_path, xml_file_path, root_element_name='root', row_element_name='row'):
-    root = ET.Element(root_element_name)
     try:
+        root = ET.Element(root_element_name)
         with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
@@ -60,24 +77,42 @@ def csv_to_xml(csv_file_path, xml_file_path, root_element_name='root', row_eleme
         os.makedirs(os.path.dirname(xml_file_path) or '.', exist_ok=True)
         with open(xml_file_path, 'wb') as f:
             f.write(pretty)
+    except FileNotFoundError:
+        print(f"Error: No se encontró el archivo CSV '{csv_file_path}'.")
+    except PermissionError:
+        print(f"Error: No hay permisos para escribir en '{xml_file_path}'.")
+    except ET.ParseError as e:
+        print(f"Error parseando XML para '{csv_file_path}': {e}.")
     except Exception as e:
-        print(f"Error convirtiendo `{csv_file_path}`: {e}")
+        print(f"Error convirtiendo '{csv_file_path}' a XML: {e}.")
 
 
 def write_combined_json(rows, json_path=JSON_OUTPUT):
-    os.makedirs(os.path.dirname(json_path) or '.', exist_ok=True)
     try:
+        os.makedirs(os.path.dirname(json_path) or '.', exist_ok=True)
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(rows, f, ensure_ascii=False, indent=2)
+    except PermissionError:
+        print(f"Error: No hay permisos para escribir en '{json_path}'.")
+    except json.JSONEncodeError as e:
+        print(f"Error codificando JSON para '{json_path}': {e}.")
     except Exception as e:
-        print(f"Error escribiendo `{json_path}`: {e}")
+        print(f"Error escribiendo '{json_path}': {e}.")
 
 
 def batch_convert_csv_to_xml(input_dir=INPUT_DIR, output_dir=OUTPUT_DIR, json_output=JSON_OUTPUT):
     if not os.path.exists(input_dir):
-        print(f"El directorio de entrada `{input_dir}` no existe.")
+        print(f"El directorio de entrada '{input_dir}' no existe.")
         return
-    os.makedirs(output_dir, exist_ok=True)
+    try:
+        os.makedirs(output_dir, exist_ok=True)
+    except PermissionError:
+        print(f"Error: No hay permisos para crear el directorio '{output_dir}'.")
+        return
+    except Exception as e:
+        print(f"Error creando directorio '{output_dir}': {e}.")
+        return
+
     converted_count = 0
     all_rows = []
     for filename in os.listdir(input_dir):
@@ -85,19 +120,20 @@ def batch_convert_csv_to_xml(input_dir=INPUT_DIR, output_dir=OUTPUT_DIR, json_ou
             csv_path = os.path.join(input_dir, filename)
             xml_filename = os.path.splitext(filename)[0] + '.xml'
             xml_path = os.path.join(output_dir, xml_filename)
+            # Intentar conversión XML
             csv_to_xml(csv_path, xml_path)
-            # Leer filas para JSON (normaliza claves para aceptar l')
+            # Intentar leer filas para JSON
             try:
                 rows = read_csv_rows(csv_path)
                 all_rows.extend(rows)
+                converted_count += 1
+                print(f"Convertido '{csv_path}' -> '{xml_path}'")
             except Exception as e:
-                print(f"Error leyendo `{csv_path}` para JSON: {e}")
-            print(f"Convertido `{csv_path}` -> `{xml_path}`")
-            converted_count += 1
+                print(f"Error procesando '{csv_path}' para JSON: {e}. Continuando con el siguiente.")
 
-    # Escribir JSON combinado
+    # Escribir JSON combinado, incluso si algunos fallaron
     write_combined_json(all_rows, json_output)
-    print(f"Conversión completada. Archivos procesados: {converted_count}. JSON escrito en `{json_output}`")
+    print(f"Conversión completada. Archivos procesados: {converted_count}. JSON escrito en '{json_output}'.")
 
 
 if __name__ == '__main__':

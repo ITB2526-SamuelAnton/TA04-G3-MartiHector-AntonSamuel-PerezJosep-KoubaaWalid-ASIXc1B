@@ -89,7 +89,7 @@ def processar_incidencies(fitxer_xml):
         return
 
     # Verificació: Comprovar si l'arrel té el tag esperat (opcional, però millora robustesa)
-    if arrel.tag != 'formulari':
+    if arrel.tag != 'Formulari':
         print(f"{Colors.WARNING}Avís: L'arrel del XML no és 'formulari' (és '{arrel.tag}'). Procedint igualment.{Colors.ENDC}")
 
     # --- Variables per al resum ---

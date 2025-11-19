@@ -60,7 +60,7 @@ def read_csv_rows(csv_file_path):
     return rows
 
 
-def csv_to_xml(csv_file_path, xml_file_path, root_element_name='root', row_element_name='row'):
+def csv_to_xml(csv_file_path, xml_file_path, root_element_name='Formulari', row_element_name='Incidencia'):
     try:
         root = ET.Element(root_element_name)
         with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:

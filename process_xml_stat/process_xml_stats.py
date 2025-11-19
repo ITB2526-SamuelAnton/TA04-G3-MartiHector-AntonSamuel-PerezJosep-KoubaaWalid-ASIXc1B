@@ -86,12 +86,12 @@ def processar_incidencies(fitxer_xml, mostrar_detalls=True):
     print(f"{Colors.OKCYAN}Recompte per Urgència:{Colors.ENDC}")
     for urgencia, count in comptador_urgencia.items():
         percent = (count / total_respostes * 100) if total_respostes > 0 else 0
-        print(f"  - {urgencia:<40} : {formatar_color_numero(count)} ({percent:.2f}% del total)")
+        print(f"  - {urgencia:<40} : {formatar_color_numero(count)} ({percent:.2f}%)")
 
     print(f"\n{Colors.OKCYAN}Recompte per Tipus d'Incidència:{Colors.ENDC}")
     for tipus, count in comptador_tipus.items():
         percent = (count / total_respostes * 100) if total_respostes > 0 else 0
-        print(f"  - {tipus:<40} : {formatar_color_numero(count)} ({percent:.2f}% del total)")
+        print(f"  - {tipus:<40} : {formatar_color_numero(count)} ({percent:.2f}%)")
 
     # --- DETALLS (solo si el usuario lo pide) ---
     if mostrar_detalls:

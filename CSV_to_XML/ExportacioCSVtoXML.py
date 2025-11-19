@@ -15,9 +15,10 @@ def _sanitize_tag(tag):
     try:
         if tag is None or tag == '':
             return 'field'
-        tag = re.sub(r'\s+', '_', str(tag))
-        tag = re.sub(r'[^A-Za-z0-9_\-\.]', '_', tag)
-        if re.match(r'^[^A-Za-z_]', tag):
+        tag = str(tag).strip()
+        tag = re.sub(r'\s+', '_', tag)
+        # Si comença per un caràcter no vàlid, afegir prefix
+        if not re.match(r'^[A-Za-zÀ-ÖØ-öø-ÿ_]', tag):
             tag = 'field_' + tag
         return tag
     except Exception as e:
@@ -29,10 +30,13 @@ def _normalize_key_for_json(key):
     try:
         if key is None:
             return 'field'
-        # Accept apostrophes: replace l_ with l'
-        key = key.replace('l_', "l'")
-        # Keep original accents and other chars; strip surrounding whitespace
-        return key.strip()
+
+        key = key.strip()
+
+        # Normalitzar l'apòstrof català
+        key = re.sub(r"\bl_", "l'", key)
+
+        return key
     except Exception as e:
         print(f"Error normalizando clave '{key}': {e}. Usando 'field' por defecto.")
         return 'field'
@@ -60,7 +64,7 @@ def read_csv_rows(csv_file_path):
     return rows
 
 
-def csv_to_xml(csv_file_path, xml_file_path, root_element_name='Formulari', row_element_name='Incidencia'):
+def csv_to_xml(csv_file_path, xml_file_path, root_element_name='Formulari', row_element_name='resposta'):
     try:
         root = ET.Element(root_element_name)
         with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:

@@ -12,18 +12,33 @@ JSON_OUTPUT = '../Dades_a_Json/Incidencies.json'
 
 
 def _sanitize_tag(tag):
+    """
+    Desinfecta l'etiqueta, substituint espais per guions baixos i eliminant només
+    caràcters que no són lletres, números, punts, guions o guions baixos.
+    Usem \w i \s amb banderes UNICODE.
+    """
     try:
         if tag is None or tag == '':
             return 'field'
-        tag = str(tag).strip()
-        tag = re.sub(r'\s+', '_', tag)
-        # Si comença per un caràcter no vàlid, afegir prefix
-        if not re.match(r'^[A-Za-zÀ-ÖØ-öø-ÿ_]', tag):
+
+        # 1. Substitueix espais i altres caràcters d'espaiat per guions baixos
+        tag = re.sub(r'\s+', '_', str(tag).strip())
+
+        # 2. Permet lletres (incloent accents), números, guions baixos, guions i punts.
+        # Això evita els caràcters subrogats que causaven el problema.
+        # Utilitzem 're.UNICODE' per incloure accents/caràcters no ASCII.
+        tag = re.sub(r'[^\w\d\-\.]', '_', tag, flags=re.UNICODE)
+
+        # 3. Assegura que l'etiqueta no comença amb un número (obligatori en XML)
+        if re.match(r'^[^A-Za-z_]', tag):
             tag = 'field_' + tag
+
         return tag
+
     except Exception as e:
         print(f"Error sanitizando tag '{tag}': {e}. Usando 'field' por defecto.")
         return 'field'
+
 
 
 def _normalize_key_for_json(key):

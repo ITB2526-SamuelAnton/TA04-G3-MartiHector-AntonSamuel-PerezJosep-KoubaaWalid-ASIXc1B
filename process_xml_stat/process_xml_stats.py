@@ -83,15 +83,15 @@ def processar_incidencies(fitxer_xml):
                 'timestamp': get_text_or_na(resposta, 'Marca_de_temps'),
                 'email': get_text_or_na(resposta, 'Adreça_electrònica'),
                 'qui': get_text_or_na(resposta, 'field_1._Nom_i_cognom_professor_alumne_que_informa'),
-                'urgencia': get_text_or_na(resposta, 'field_2._Urgència'),
+                'urgencia': get_text_or_na(resposta, 'field_2._Urgència_'),
                 'aula': get_text_or_na(resposta, 'field_3._Aula_on_està_l_incidència.'),
                 'tipus_dispositiu': get_text_or_na(resposta, 'field_4._Tipus_de_dispositiu'),
                 'codi_dispositiu': get_text_or_na(resposta, 'field_5._Dispositiu_d_incidència_Codi_dispositiu'),
-                'tipus_incidencia': get_text_or_na(resposta, 'field_6._Quin_tipus_d_incidència_és'),
+                'tipus_incidencia': get_text_or_na(resposta, 'field_6._Quin_tipus_d_incidència_és_'),
                 'desc': get_text_or_na(resposta, 'field_7._Explicació_de_l_incidència'),
-                'error': get_text_or_na(resposta, 'field_8._Missatge_de_l_error_exactament'),
+                'error': get_text_or_na(resposta, 'field_8._Missatge_de_l_error_exactament_'),
                 'profe': get_text_or_na(resposta, 'field_9._Professor_s_responsable_a_l_aula'),
-                'obs': get_text_or_na(resposta, 'field_10._Altres_observacions_Perquè_com_etc...')
+                'obs': get_text_or_na(resposta, 'field_10._Altres_observacions__Perquè__com__etc...__')
             }
 
             # Guardem les dades per al llistat detallat

@@ -102,7 +102,7 @@ def processar_incidencies(fitxer_xml):
     llista_incidencies = []
 
     # Iterem sobre cada element <resposta> dins de <formulari>
-    for resposta in arrel.findall('resposta'):
+    for resposta in arrel.findall('Incidencia'):
         total_respostes += 1
         try:
             # === MODIFICAT: Ara capturem TOTS els camps ===

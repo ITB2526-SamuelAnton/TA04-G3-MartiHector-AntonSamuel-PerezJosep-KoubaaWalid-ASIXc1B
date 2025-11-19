@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7108f1-6b3a-421b-b1dd-f18cf2d8e706" name="Changes" comment="Problemes de no arrancada de ExportacioCSVtoXML.py solucionat" />
+    <list default="true" id="bd7108f1-6b3a-421b-b1dd-f18cf2d8e706" name="Changes" comment="Problemes de noms diferents entre el fitxer XML i process_xml_stats.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763540703083</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Problemes de noms diferents entre el fitxer XML i process_xml_stats.py">
+      <option name="closed" value="true" />
+      <created>1763541075844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763541075844</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +176,7 @@
     <MESSAGE value="Root i row del fitxer XML canviat a Formulari i incidencia" />
     <MESSAGE value="Problema de noms en process_xml_stats.py solucionat." />
     <MESSAGE value="Problemes de no arrancada de ExportacioCSVtoXML.py solucionat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problemes de no arrancada de ExportacioCSVtoXML.py solucionat" />
+    <MESSAGE value="Problemes de noms diferents entre el fitxer XML i process_xml_stats.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problemes de noms diferents entre el fitxer XML i process_xml_stats.py" />
   </component>
 </project>
